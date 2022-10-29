@@ -1,6 +1,6 @@
 # Site settings
-title: Yet Another Blogging Attempt
-email: ashtabulaecv197@gmail.com
+title: Monitoring From Main Mission
+email: ""
 author: Stephen Michael Kellat
 lang: en-us
 description: > # this means to ignore newlines until "baseurl:"
@@ -16,7 +16,7 @@ permalink: /:year/:title.html
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile']
+exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template']
 
 # Timezone
 
