@@ -1,16 +1,21 @@
 # Site settings
-title: Monitoring From Main Mission
+title: Monitoring Main Mission
 email: ""
 author: Stephen Michael Kellat
 lang: en-us
 description: > # this means to ignore newlines until "baseurl:"
-  This is yet another blogging attempt made by Stephen Michael Kellat.
+  The latest blogging attempt by Stephen Michael Kellat.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kellat.me" # the base hostname & protocol for your site
 twitter_username: writer_smk
 github_username:  skellat
+telegram_username: smkellat
+
 
 permalink: /:year/:title.html
+
+# We can go ahead and show excerpts on the home page
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
