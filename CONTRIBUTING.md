@@ -1,4 +1,4 @@
 CONTRIBUTING
 ============
 
-External contributions are generally not accepted.  
+External contributions are normally not accepted.  
