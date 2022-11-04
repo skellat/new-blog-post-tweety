@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Sites By Stephen
+title: Commerce
 permalink: /elsewhere/
 ---
 
