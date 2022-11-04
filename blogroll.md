@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Other Blogs And Sites You May Enjoy
+title: Blogroll
 permalink: /blogroll/
 ---
 
-It is appropriate and necessary to share in the harvest of good blog reading.  A sampling of good blogs and other sites from the feed reader you may enjoy includes:
+It is appropriate and necessary to share in the harvest of good blog reading.  A sampling of good blogs and other sites from [the feed reader](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) you may enjoy includes:
 
 * [Alan Pope's blog](https://popey.com/blog/)
 * [Box of Cables](https://boxofcables.dev/)

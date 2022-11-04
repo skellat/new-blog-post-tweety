@@ -8,4 +8,6 @@ Well, the college's website is now MIA.  I've run `traceroute` but the results j
 
 The shrieking of MAGA partisans in a pro-Putin/anti-Ukraine fashion is really disturbing me.  If they win control of Congress we're going to be heading into a very dark biennium.  I am going to enjoy *The Mads Are Back* with another great movie riffing on Tuesday night in the live show since I can't really do the anxiety of the results all that well.
 
+According to the Ohio Department of Health ranking it seems Ashtabula County is seventh in the state for COVID-19 transmission at the moment.  That's a dubious honor.
+
 On a positive note, though, I am making this look like an actual normal blog.
