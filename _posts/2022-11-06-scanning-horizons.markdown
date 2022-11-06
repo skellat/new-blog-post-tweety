@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scanning Horizons"
-date:   2022-11-06 00:25:00
+date:   2022-11-06 00:53:00
 categories: blather
 ---
 A miscellany of brief items in no particular order includes:
@@ -13,9 +13,10 @@ A miscellany of brief items in no particular order includes:
 * Yes, I am one of those folks expecting outbreaks of violence depending upon how the election turns out Tuesday.  The MAGA people crave violence for no clear reason.  I don't think they'll like it if they get what they're seeking, though.
 * I'm still considered locally to be a non-resident even though I am a homeowner, lost a race for city council, graduated from high school locally, and got an associate's degree at the local campus of Kent State University.  Being neither Roman Catholic nor Lutheran let alone Pentacostal puts you well outside the "good old boy network" locally and leads to an interesting bit of social exclusion.
 * Work continues on trying to get WEFAX reception up in-house.  The closest station would be NMF in Boston.  Fortunately the western Atlantic charts still include Lake Erie in their scope.
-    * It would be nice to get APT/LRPT reception up too but that would take quite a bit of work
-    * NAVTEX is seemingly contraindicated as the one station covering the Great Lakes has co-channel interference on 530 kHz from a station the CRTC isn't cracking down on sufficiently
-    * Getting licensed to make my own data blasts like that is difficult to comprehend in the present rules promulgated by the Commission
+  * It would be nice to get APT/LRPT reception up too but that would take quite a bit of work
+  * NAVTEX is seemingly contraindicated as the one station covering the Great Lakes has co-channel interference on 530 kHz from a station the CRTC isn't cracking down on sufficiently
+  * Getting licensed to make my own data blasts like that is difficult to comprehend in the present rules promulgated by the Commission
 * I still need to look at finding space to set up an appropriate server running [Citadel](https://citadel.org/) so as to have a BBS running.
+* I am still aware of the time shift and will handle it appropriately.
 
 ![A chart received using a WEFAX decoder plugin on a KiwiSDR networked receiver in Ontario, Canada.]({{site.url}}/img/wefax2.jpg)
