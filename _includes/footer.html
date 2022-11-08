@@ -57,6 +57,19 @@
       </li>
       {% endif %}
 
+      {% if site.twitch_username %}
+      <li>
+        <a href="https://twitch.tv/{{ site.telegram_username }}">
+          <span class="icon  icon--twitch">
+
+      <svg viewBox="0 0 16 16">
+        <path fill="#828282" d="M500,0L0,500v1800h600v500l500-500h400l900-900V0H500z M2200,1300l-400,400h-400l-350,350v-350H600V200h1600V1300z"/>
+      </svg>
+
+      <span class="username">{{ site.twitch_username }}</span>
+    </a>
+  </li>
+  {% endif %}
 
         </ul>
       </div>
