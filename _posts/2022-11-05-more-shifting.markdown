@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More Shifting"
-date:   2022-11-05 16:25:00
+date:   2022-11-05 16:25:00 -0400
 categories: blather
 ---
 Well, Twitter is becoming even more of a hell realm.  If you don't subscribe for the new Twitter Blue you'll essentially not be seen or heard.  The site is essentially a pay site now.  That means my time there is rapidly coming to an end unless this changes.  This blog is going to be the primary thing going forward.

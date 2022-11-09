@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recap The Strange"
-date:   2022-11-03 10:03:00
+date:   2022-11-03 10:03:00 -0400
 categories: blather
 ---
 I gave my class their first test of the session on Wednesday night.  It appeared to go well.  I'm still not happy with the time compression I had to shift to but I will have to live with it.  I accidentally revealed this domain in class but if any of them see this blog they'll probably see that I am human.

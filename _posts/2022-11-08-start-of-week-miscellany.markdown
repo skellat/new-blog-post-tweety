@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Start of Week Miscellany"
-date:   2022-11-08 9:43:00
+date:   2022-11-08 9:43:00 -0500
 categories: blather
 ---
 In no particular order:

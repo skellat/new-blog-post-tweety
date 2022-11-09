@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preaching So Far In 2022"
-date:   2022-10-30 00:57:00
+date:   2022-10-30 00:57:00 -0400
 categories: preaching
 ---
 I've preached three times this year already at Geneva Church of Christ.  The videos are shown below in roughly chronological order:

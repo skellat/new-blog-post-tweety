@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post-Church Ponderings"
-date:   2022-10-30 14:38:00
+date:   2022-10-30 14:38:00 -0400
 categories: communications
 ---
 ![A tweet from the *New York Times* about Elon Musk spewing misinformation ]({{site.url}}/img/nyt-musk-misinformation.jpeg)

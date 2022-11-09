@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Things Are Going Very Wrong"
-date:   2022-10-31 23:18:00
+date:   2022-10-31 23:18:00 -0400
 categories: uneasiness
 ---
 [Bloomberg](https://archive.ph/1zraL) [reports](https://www.bloomberg.com/news/articles/2022-10-31/us-small-business-rent-delinquency-rates-rise-sharply-in-october) that small businesses here in the USA are not paying their rents.  That's somewhat disastrous for our economy.  The top states where these problems are happening are Pennsylvania, California, New York, New Jersey, and Massachusetts.  Massachusetts is seeing half of small businesses in that state unable to pay their rent.  If a business can't pay their rent that generally means closing is in the cards.  Considering how leveraged the commercial real estate sector happens to be right now, this will have major ripple effects in our economy.
