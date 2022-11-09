@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Election Hot Take"
-date:   2022-11-01 00:06:00 -0500
+date:   2022-11-09 00:06:00 -0500
 categories: blather
 ---
 Well, that happened.
