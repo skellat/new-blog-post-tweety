@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scanning Horizons"
-date:   2022-11-06 00:53:00
+date:   2022-11-06 00:53:00 -0400
 categories: blather
 ---
 A miscellany of brief items in no particular order includes:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pondering Yet Another Crossroads"
-date:   2022-10-30 00:08:00
+date:   2022-10-30 00:08:00 -0400
 categories: transitions
 ---
 Right now I'm enjoying the [Archers Omnibus podcast](http://www.bbc.co.uk/programmes/b006qnkc).  Hearing how rural life can be somewhat sane is a good thing.  Life here in Ashtabula County is still unsettled.

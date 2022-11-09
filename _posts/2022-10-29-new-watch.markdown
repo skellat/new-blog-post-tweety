@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "So I Bought A Watch..."
-date:   2022-10-29 00:33:00
+date:   2022-10-29 00:33:00 -0400
 categories: transportation
 ---
 Friday involved me heading out to MicroCenter in Cleveland.  I wound up buying an [Apple Watch SE](http://web.archive.org/web/20221029043435/https://www.apple.com/apple-watch-se/).  I got the black sport band and a screen protector for it.  
@@ -14,4 +14,3 @@ In other news in no particular order:
 * I'm still scratching my head over the meaning of INTJ-T
 * Tension continues relative to the madness in the body politic
 * The urge to do the bug-out boogie to other lands remains
-

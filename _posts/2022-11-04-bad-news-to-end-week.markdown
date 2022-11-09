@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bad News To End The Week"
-date:   2022-11-04 00:02:00
+date:   2022-11-04 00:02:00 -0400
 categories: blather
 ---
 Well, the college's website is now MIA.  I've run `traceroute` but the results just end up going nowhere.  A check of `whois` indicates that the domain was just updated on November 1st.  A check of isup dot me showed that they have no problems accessing the college website so I'm stumped.  Fortunately I only have to teach CIS and am not back-end IT for the whole college.

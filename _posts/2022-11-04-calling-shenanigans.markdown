@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Calling Shenanigans"
-date:   2022-11-04 17:20:00
+date:   2022-11-04 17:20:00 -0400
 categories: blather
 ---
 Kate Starbird of University of Washington [said something important on Twitter earlier today](https://web.archive.org/web/20221104213000/https://twitter.com/katestarbird/status/1588589381266599936):
