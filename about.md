@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog was erected to provide an outpost and refuge away from the stormy seas brewing on Twitter.  It is uncertain how long many people can hold on at Twitter.  Time changes many things.  There is a notional microblog presence once again in the so-called *fediverse* but primarily writing should appear here first.
+This blog was erected to provide an outpost and refuge away from the stormy seas brewing on Twitter.  Twitter continues to go through rapid changes day by day.  It is no longer all that stable let alone truly usable, it seems.
 
 The author of this blog, Stephen Michael Kellat, was described in a microblog site bio once with: "Geriatric Millennial/Fiction Author/Computer & Information Systems Teacher/TeX User Group Member/Amateur Radio Operator/Lapsed Librarian"
 
