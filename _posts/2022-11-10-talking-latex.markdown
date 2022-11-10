@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Talking LaTeX"
-date:   2022-11-10 00:33:00 -0500
+date:   2022-11-10 10:44:00 -0500
 categories: blather
 ---
 Now is the point where we nerd out in LaTeX.
