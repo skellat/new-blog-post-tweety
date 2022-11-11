@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Friday Miscellany"
-date:   2022-11-01 00:33:00 -0500
+date:   2022-11-11 01:33:00 -0500
 categories: blather
 ---
 For this early on a Friday we now turn to a miscellany of brief items.  In no particular order:
