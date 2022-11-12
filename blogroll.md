@@ -19,5 +19,3 @@ It is appropriate and necessary to share in the harvest of good blog reading.  A
 * [The SWLing Post](https://swling.com/blog)
 * [TidBITS](https://tidbits.com/)
 * [xkcd](https://xkcd.com/)
-
-<iframe src="http://prx.mx/embed" scrolling="no" frameborder="0" style="width:100%;height:90px"></iframe>
