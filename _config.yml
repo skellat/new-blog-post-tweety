@@ -4,15 +4,15 @@ email: ""
 author: Stephen Michael Kellat
 lang: en-us
 description: > # this means to ignore newlines until "baseurl:"
-  The newest blogging attempt by Stephen Michael Kellat.
+  Blogging by Stephen Michael Kellat.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kellat.me" # the base hostname & protocol for your site
-twitter_username: writer_smk
+# twitter_username: writer_smk
 github_username:  skellat
 telegram_username: smkellat
 twitch_username: shameraider
 masdotto_username: smkellat
-
+liberapay_username: smkellat
 
 permalink: /:year/:title.html
 
@@ -23,7 +23,7 @@ show_excerpts: true
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template']
+exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template','_drafts']
 
 # Timezone
 
