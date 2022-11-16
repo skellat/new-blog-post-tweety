@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Wrong High Score To Celebrate"
-date:   2022-11-10 14:39:00 -0500
+date:   2022-11-16 14:39:00 -0500
 categories: blather
 ---
 WJW Fox 8 [reports](https://web.archive.org/web/20221116194151/https://fox8.com/news/coronavirus/7-ne-ohio-counties-have-some-of-the-highest-coronavirus-spread-in-the-u-s-right-now/) that Ashtabula County is one of seven counties in northeast Ohio that is among the top ten percent in the nation for COVID-19 transmission.  Ashtabula County is specifically ranked as 281st out of 3,142 counties.  That's really, really high.
