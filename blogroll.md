@@ -12,6 +12,7 @@ It is appropriate and necessary to share in the harvest of good blog reading.  A
 * [Drew DeVault's blog](https://drewdevault.com/)
 * [Information Wants To Be Free](https://meredith.wolfwater.com/wordpress)
 * [Ken Shirriff's blog](http://www.righto.com/)
+* [Librarian.net](https://www.librarian.net/)
 * [Microsoft Tech Community](https://techcommunity.microsoft.com/)
 * [NASA Watch](http://nasawatch.com)
 * [pleia2's blog](https://princessleia.com/journal)
