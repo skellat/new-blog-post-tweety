@@ -10,7 +10,7 @@ The author of this blog, Stephen Michael Kellat, was described in a microblog si
 
 That description appears to remain accurate.
 
-To repeat a previously made disclaimer:  
+To repeat a disclaimer previously made elsewhere:  
 
 >*The views expressed herein do not reflect the policies, procedures, postures, or other stances of Erie County Community College, the Commonwealth of Pennsylvania and its instrumentalities, the State of Ohio and its instrumentalities, or any other private or public entity.*  
 
