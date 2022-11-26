@@ -22,5 +22,5 @@ It is appropriate and necessary to share in the harvest of good blog reading.  A
 * [The SWLing Post](https://swling.com/blog)
 * [TidBITS](https://tidbits.com/)
 * [VideoLAN project](http://www.videolan.org/)
-* [Windows Command Line](https://devblogs.microsoft.com/commandline/}
+* [Windows Command Line](https://devblogs.microsoft.com/commandline/)
 * [xkcd](https://xkcd.com/)

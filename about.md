@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This blog was originally erected to provide an outpost and refuge away from the stormy seas brewing on Twitter.  Twitter continues to go through rapid changes day by day.  It is no longer all that stable let alone truly usable, it seems.
-
 The author of this blog, Stephen Michael Kellat, was described in a microblog site bio once with: "Geriatric Millennial/Fiction Author/Computer & Information Systems Teacher/TeX User Group Member/Amateur Radio Operator/Lapsed Librarian"
 
 That description appears to remain accurate.
@@ -22,4 +20,4 @@ You can find Erie Looking Productions online at <https://erielookingproductions.
 
 The ELP Television experimentation site can be found at <https://coyote.works/>.
 
-Support on a continuing basis for Stephen's work can be provided via Liberapay at <https://liberapay.com/smkellat>.
+Support on a continuing basis for Stephen's efforts can be provided via Liberapay at <https://liberapay.com/smkellat>.
