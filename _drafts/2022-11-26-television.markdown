@@ -4,4 +4,4 @@ title:  ""
 date:   2022-11-20 00:33:00 -0500
 categories: blather
 ---
-Write textual post here in Markdown
+Textual post here in Markdown
