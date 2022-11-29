@@ -16,7 +16,6 @@ It is appropriate and necessary to share in the harvest of good blog reading.  A
 * [Ken Shirriff's blog](http://www.righto.com/)
 * [Librarian.net](https://www.librarian.net/)
 * [Microsoft Tech Community](https://techcommunity.microsoft.com/)
-* [NASA Watch](http://nasawatch.com)
 * [pleia2's blog](https://princessleia.com/journal)
 * [Six Colors](https://sixcolors.com/)
 * [The SWLing Post](https://swling.com/blog)
