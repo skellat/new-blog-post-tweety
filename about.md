@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The author of this blog, Stephen Michael Kellat, was described in a microblog site bio once with: "Geriatric Millennial/Fiction Author/Computer & Information Systems Teacher/TeX User Group Member/Amateur Radio Operator/Lapsed Librarian"
+This blog is maintained by Stephen Michael Kellat.  Mr. Kellat was described in a microblog site bio once with: "Geriatric Millennial/Fiction Author/Computer & Information Systems Teacher/TeX User Group Member/Amateur Radio Operator/Lapsed Librarian"
 
 That description appears to remain accurate.
 
