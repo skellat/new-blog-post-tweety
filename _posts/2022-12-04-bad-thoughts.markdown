@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Where Are We Going With This?"
+title:  "Where Are We Going With This"
 date:   2022-12-04 00:33:00 -0500
 categories: blather
 ---
