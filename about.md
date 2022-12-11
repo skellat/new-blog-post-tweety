@@ -4,17 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This blog is maintained by Stephen Michael Kellat.  He was described in a microblog site bio once with: "Geriatric Millennial/Fiction Author/Computer & Information Systems Teacher/TeX User Group Member/Amateur Radio Operator/Lapsed Librarian"
-
-That description seems to remain accurate.  It may change in 2023.  We'll see.
-
-Books by Stephen Michael Kellat are available for purchase on Amazon at <https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J>.
-
-The ELP Television experimentation site can be found at <https://coyote.works/>.
+This blog is maintained by Stephen Michael Kellat.  
 
 Support on a continuing basis for Stephen's efforts can be provided via Liberapay at <https://liberapay.com/smkellat>.
 
 Support is also possible via Ko-Fi at <https://ko-fi.com/smkellat>.
+
+Books by Stephen Michael Kellat are available for purchase on Amazon at <https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J>.
+
+The ELP Television experimentation site can be found at <https://coyote.works/>.
 
 You can find Erie Looking Productions online at <https://erielookingproductions.info/>.  
 

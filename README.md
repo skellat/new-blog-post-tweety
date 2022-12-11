@@ -1,6 +1,6 @@
 # New Blog Post-Tweety
 
-This is the scaffolding behind my blog.  I have [a user account on a Mastodon instance](https://mas.to/@smkellat) and new posts from this blog are auto-posted to it.  RSS is available, of course.
+This is my blog's scaffolding.  I have [a user account on a Mastodon instance](https://mas.to/@smkellat) and new posts from this blog are auto-posted to it.  RSS is available, of course.
 
 Writing can be a form of therapy.  This is helpful to me.  Whether or not these posts are helpful to others is up for debate.
 
