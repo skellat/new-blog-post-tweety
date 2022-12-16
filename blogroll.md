@@ -23,3 +23,11 @@ It is appropriate and necessary to share in the harvest of good blog reading.  A
 * [TidBITS](https://tidbits.com/)
 * [VideoLAN project](http://www.videolan.org/)
 * [xkcd](https://xkcd.com/)
+
+Podcasts you may enjoy from the [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) include:
+
+*[Because News from CBC Radio](http://www.cbc.ca/becausenews)
+*[The Debaters](http://www.cbc.ca/radio/thedebaters)
+*[Feuding Families (from Game Show)](https://www.theincomparable.com/gameshow/feud/)
+*[Low Definition (from Game Show)](https://www.theincomparable.com/gameshow/lowdef/)
+*[UK Triv (from Game Show)](https://www.theincomparable.com/gameshow/uktriv/)
