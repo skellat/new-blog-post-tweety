@@ -6,9 +6,9 @@ permalink: /about/
 
 Stephen Michael Kellat maintains this blog.  
 
-Financial support on a continuing basis for Stephen's efforts can be provided via Liberapay at <https://liberapay.com/smkellat>.
+Financial support on a continuing basis for Stephen's creative efforts can be provided via Liberapay at <https://liberapay.com/smkellat>.
 
-Intermittent financial supporting him is also possible via Ko-Fi at <https://ko-fi.com/smkellat>.
+Intermittent financial support for his creative efforts is also possible via Ko-Fi at <https://ko-fi.com/smkellat>.
 
 Books by Stephen Michael Kellat are available for purchase on Amazon at <https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J>.
 
