@@ -6,14 +6,11 @@ permalink: /about/
 
 Stephen Michael Kellat maintains this blog.  
 
-Financial support on a continuing basis for Stephen's creative efforts can be provided via Liberapay at <https://liberapay.com/smkellat>.
-
-Intermittent financial support for his creative efforts is also possible via Ko-Fi at <https://ko-fi.com/smkellat>.
+Financial support and patronage for Stephen's creative endeavors can be provided via [Liberapay](https://liberapay.com/smkellat) and [Ko-Fi](https://ko-fi.com/smkellat).
 
 Books by Stephen Michael Kellat are available for purchase on Amazon at <https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J>.
 
 The ELP Television experimentation site can be found at <https://coyote.works/>.
-
 You can find Erie Looking Productions online at <https://erielookingproductions.info/>.  
 
 To bring forward and adapt a disclaimer previously made elsewhere:  
