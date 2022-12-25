@@ -31,10 +31,3 @@ It is appropriate and necessary to share in the harvest of good blogs and podcas
 * [UK Triv (from Game Show)](https://www.theincomparable.com/gameshow/uktriv/)
 * [VideoLAN project](http://www.videolan.org/)
 * [xkcd](https://xkcd.com/)
-
-
-
-
-
-
-
