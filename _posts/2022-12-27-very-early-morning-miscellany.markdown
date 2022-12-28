@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Very Early Morning Miscellany"
-date:   2022-12-26 01:15:00 -0500
+date:   2022-12-27 01:15:00 -0500
 categories: blather
 ---
 In no particular order:
