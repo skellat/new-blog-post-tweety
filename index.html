@@ -4,10 +4,10 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">The River of Posts</h1>
+  <h1 class="page-heading">The Most Recent Five Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:5 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
