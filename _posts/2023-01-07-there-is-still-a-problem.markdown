@@ -16,6 +16,6 @@ Republicans are in a bit of a identity crisis.  Are they extremists or not?  Mor
 
 What does a party do when it has a faction that wants to watch the world burn and a faction that wants to govern?  Notwithstanding how much people dismissed the idea it still seems that a division of the party may actually be beneficial.  Trying to contain the MAGA wing within the Republican tent hasn't been working too well lately.  The farce of the speaker's election in DC is a definite example of that.
 
-We're in a spot where the country can slide out of control pretty quickly with the crew taking power in DC.  The thoughts by retired general Mark Hertling are a good point upon which to wrap this collection of thoughts.
+We're in a spot where the country can slide out of control pretty quickly with the crew taking power in DC.  The [thoughts by retired general Mark Hertling](https://mstdn.social/@markhertling/109646168091186531) are a good point upon which to wrap this collection of thoughts.
 
 ![Quoting @markhertling@mstdn.social: https://mstdn.social/@markhertling/109646168091186531 Post by Mark Hertling. "As @POTUS mentioned in emotional remarks earlier this week, our allies around the world are not yet convinced we’re back. Tonight isn’t going to help further burnish our improving credentials on the world stage." Posted on Jan 7, 2023 at 00:02]({{site.url}}/img/hertling-20230107-areweback.jpg)
