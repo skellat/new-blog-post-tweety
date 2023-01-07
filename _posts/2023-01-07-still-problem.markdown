@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Of Course There Is Still A Problem"
-date:   2023-01-07 00:33:00 -0500
+date:   2023-01-07 00:13:00 -0500
 categories: blather
 ---
 I should refer to what was [said by Dan Gillmor on Mastodon](https://mastodon.social/@dangillmor/109646074425667878):
