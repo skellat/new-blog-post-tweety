@@ -6,6 +6,8 @@ permalink: /blogroll/
 
 It is appropriate and necessary to share in the harvest of good blogs and podcasts.  A random non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
+* [86Box](http://86box.net/)
+* [ABC News Daily](https://www.abc.net.au/radio/programs/abc-news-daily/)
 * [Action Castle and other Parsely Games! (from The Incomparable Game Show)](https://www.theincomparable.com/gameshow/actioncastle/)
 * [Alan Pope's blog](https://popey.com/blog/)
 * [as days go by (Stuart Langridge)](https://www.kryogenix.org/days/)
@@ -13,6 +15,7 @@ It is appropriate and necessary to share in the harvest of good blogs and podcas
 * [Blog - Xubuntu](https://xubuntu.org/)
 * [Box of Cables](https://boxofcables.dev/)
 * [Cleveland Scene](https://www.clevescene.com/)
+* [Computer Chronicles Revisited](https://smoliva.blog/)
 * [The Debaters](http://www.cbc.ca/radio/thedebaters)
 * [Drew DeVault's blog](https://drewdevault.com/)
 * [ELP Television](https://coyote.works/)
@@ -25,6 +28,7 @@ It is appropriate and necessary to share in the harvest of good blogs and podcas
 * [Librarian.net](https://www.librarian.net/)
 * [Library Link of the Day](https://www.tk421.net/librarylink/)
 * [Low Definition (from Game Show)](https://www.theincomparable.com/gameshow/lowdef/)
+* [Monty and Rhias vs. Movies](https://www.theincomparable.com/vs/)
 * [pleia2's blog](https://princessleia.com/journal)
 * [Six Colors](https://sixcolors.com/)
 * [The SWLing Post](https://swling.com/blog)
