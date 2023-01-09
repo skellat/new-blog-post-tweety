@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DIY Chroma Key Testing"
-date:   2023-01-08 00:33:00 -0500
+date:   2023-01-08 23:21:00 -0500
 categories: blather
 ---
 Today was productive after church.  Granted I have felt crummy most of the day.  I'm going to have to keep an eye on that with all the issues to tackle lately.
