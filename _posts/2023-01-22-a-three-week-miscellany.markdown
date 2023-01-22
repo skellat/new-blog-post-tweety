@@ -35,7 +35,7 @@ In no particular order:
 * I've paused the dating app and canceled the subscription
   * There were no viable hits in it
   * The only responses I got were from women *located in Canada*
-  * It just bothered me greatly that I could get the time of day from anybody in northeast Ohio or northwest Pennsylvania but yet could match with people in southwest Ontario
+  * It just bothered me greatly that I could not get the time of day from anybody in northeast Ohio or northwest Pennsylvania but yet could match with people in southwest Ontario
   * The app is based on a radius *as the crow flies*.  Even at a **50 miles** setting it would still bring in part of southwestern Ontario in addition to northeastern Ohio and northwestern Pennsylvania.
   * Once I pick six possibilities to try my luck with next, I'll roll the dice with [Dice by PCalc](https://www.pcalc.com/dice/) and see where random chance leads me in terms of picking a different dating app to try.
 * What a strange world we live in these days...
