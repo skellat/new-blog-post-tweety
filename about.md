@@ -17,3 +17,5 @@ You can find Erie Looking Productions online at <https://erielookingproductions.
 To bring forward and adapt a disclaimer previously made elsewhere:  
 
 >*All views expressed here are solely my own.  I do not speak officially on behalf of any governmental or academic institution through this site.*  
+
+This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration. 
