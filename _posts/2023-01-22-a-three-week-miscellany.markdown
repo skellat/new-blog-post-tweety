@@ -16,7 +16,7 @@ In no particular order:
     * Generally the infrrastructure has been working okay locally
     * We're getting into winter collapses through lack of attention, it seems
   * Building for contingency plans is probably a good idea
-    * I do suppose I need to do better monitoring [the 9th District USCG marine weather broadcast](https://www.weather.gov/marine/uscg_broadcasts) and the [various NOAA charts being transmitted by radio station NMF in Boston](https://ocean.weather.gov/shtml/atlsch.php)
+    * I do suppose I need to do better in monitoring [the 9th District USCG marine weather broadcast](https://www.weather.gov/marine/uscg_broadcasts) and the [various NOAA charts being transmitted by radio station NMF in Boston](https://ocean.weather.gov/shtml/atlsch.php)
       * Reception of the "Cleveland-area" NOAA Weather Radio transmitter is rather rough [based upon its coverage map](https://www.weather.gov/nwr/sites?site=KHB59) as it doesn't really cover Ashtabula
       * Reception of the NWR transmitter in Erie is easier [according to its coverage map](https://www.weather.gov/nwr/sites?site=KEC58)
     * At the very least I *can* ensure reception of weather data is doable.
