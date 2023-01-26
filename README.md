@@ -1,6 +1,6 @@
 # New Blog Post-Tweety
 
-This is my blog's scaffolding and content.  I have [a user account on a Mastodon instance](https://mas.to/@smkellat) and new posts from this blog are auto-posted to it.  RSS is available and its use is encouraged.  You won't see posts from this blog showing up on Twitter due to action by me since IFTTT is apparently *being blocked* by Twitter as of January 14th.
+This is my blog's scaffolding and content.  I have [a user account on a Mastodon instance](https://mas.to/@smkellat) and new posts from this blog are auto-posted to it.  RSS is available and its use is encouraged.  The Twitter account was deactivated on January 24th and is **not** returning.
 
 Writing is a form of therapy.  This is helpful to me.  Whether or not these posts are helpful to others is up for debate.
 
