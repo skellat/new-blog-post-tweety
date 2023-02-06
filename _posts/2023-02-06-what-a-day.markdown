@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "What A Day"
+date:   2023-02-06 00:01:00 -0500
+categories: blather
+---
+Sunday was not meant to be spent hiding out at Hillcrest Hospital in Mayfield Heights.  I picked up three little items at MicroCenter during my brief detour there.  One was a cheap USB sound card.  The second was an aluminum case with fan and power supply for a Raspberry Pi 4B+ to replace dying hardware.  The third was a new web cam in the form of a Logitech C920x.
+
+Dinner was at [El Palenque](https://elpalenqueineastlake.com/) in Eastlake and was very, very good.  The grub at the hospital was not that good.  That there were only "grab and go" items on Sunday made it taste even less appetizing, I think.
+
+The sister will be spending the night at the hospital.  No, we have no idea what exactly is wrong.  She'll be meeting with the specialist in the morning.  Things were so screwy at the hospital that they didn't even have a room for her to stay in overnight.  She's still in the emergency department.  It is less than ideal but at the least she's getting the care that she needs.
+
+Any plans we might have had basically got tossed out the window.  This happens.  That my sister will be seeing a *special* specialist in the morning makes the situation even more fun to work around.
+
+Regionally there is a bit of an emergency management crisis happening in the Village of East Palestine.  That community is located in Columbiana County to my south with Trumbull and Mahoning counties between us.  That county is also on the Ohio River and is a landing point for the infamous multi-county "Lake To River" fibre optic trunk line project we've discussing through Eastgate.  
+
+There was a **50 car train derailment** on Friday that caught fire in East Palestine Village.  As I write this *the fire is still burning*.  On Sunday night Governor Mike DeWine deployed the Ohio National Guard to assist with the situation and was pleading with residents within the 1 mile radius danger zone around the derailment to evacuate immediately.  There is an increasing danger of one or more of the tanker cars exploding and based upon reporting of what was aboard the train those five hundred residents who are refusing to leave are in rather severe danger of becoming fatalities.  The Columbiana County Sheriff is threatening arrest of any parents in the evacuation zone on child endangerment charges and the County Department of Job and Family Services is apparently being prepared to go in to take children into protective custody.
+
+This is what the danger of constant misinformation risks, the QAnon cult, and worse bring you.  There is a clear and present danger.  Whether we see a BLEVE happen or one of the benzene residue cars goes up the very toxic mix of hazardous materials is likely to lead to an explosion.  One mile is the minimum safety clearance distance specified in the guidebook for these sorts of situations even if you're pulling it up electronically [via CAMEO](https://cameochemicals.noaa.gov/).  As an aside, I have the smartphone version of CAMEO installed and have at least had coursework on reading the response guides.  All those poor people think their government is lying to them yet.  When the chemical situation is so volatile that incident command can't even set up downrange to address it the best thing to do is err on the side of caution instead of clinging to the "faith over fear" slogan of defiance.  To borrow from the vernacular, Saint Peter might give you funny looks at the pearly gates if you defied an evacuation order ahead of an impending railroad car explosion.
+
+Yes, my state is *literally* on fire in one area.  The news may be bad elsewhere yet I'm more concerned about things that might be carried this way by winds aloft.  The fire isn't out yet down in Columbiana County...
