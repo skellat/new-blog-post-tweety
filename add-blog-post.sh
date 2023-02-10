@@ -21,10 +21,6 @@ DUB=$( date "+%A-%d-now.png")
 WUB=$( date "+%A-%d-soon.png")
 SLIDES=$( date "+%A-%d.pptx")
 
-# Grab images from NOAA
-curl -C - --retry-delay 3 --retry 5 --output $DUB "https://graphical.mdl.nws.noaa.gov/GraphicalNDFD.php?width=1920&timezone=EST&wfo=KCLE&element=wx&n=2"
-curl -C - --retry-delay 3 --retry 5 --output $WUB "https://graphical.mdl.nws.noaa.gov/GraphicalNDFD.php?width=1920&timezone=EST&wfo=KCLE&element=wx&n=3"
-
 # Build the slideshow using pandoc
 cat > /tmp/interim.txt << BOG
 % Your Weather Report
@@ -54,8 +50,6 @@ Insert the National Forecast chart graphic here
 This program was produced by Erie Looking Productions, Ashtabula, Ohio.
 
 BOG
-
-pandoc /tmp/interim.txt -o $SLIDES
 
 # Begin to build the rough script by pulling things in via curl straight from NOAA
 
