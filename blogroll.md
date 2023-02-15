@@ -30,7 +30,6 @@ In these dark and bizarre times it is necessary to share in the harvest of good 
 * [Library Link of the Day](https://www.tk421.net/librarylink/)
 * [Lizbeth Myles](https://lmmyles.com/)
 * [Low Definition (from Game Show)](https://www.theincomparable.com/gameshow/lowdef/)
-* [Monty and Rhias vs. Movies](https://www.theincomparable.com/vs/)
 * [Open Web Advocacy](https://open-web-advocacy.org/)
 * [pleia2's blog](https://princessleia.com/journal)
 * [Sean Davis](https://blog.bluesabre.org/)
