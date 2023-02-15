@@ -1,6 +1,6 @@
 # New Blog Post-Tweety
 
-This is my blog's scaffolding and content.  I have [a user account on a Mastodon instance](https://mas.to/@smkellat) and new posts from this blog are auto-posted to it using automation on a free tier ARM instance on Oracle Cloud.  RSS is available and its use is encouraged.  The Twitter account was deactivated on January 24th and is **not** returning.  Twitter has become a bad neighborhood these days.
+This is my blog's scaffolding and its content.  I have [a user account on a Mastodon instance](https://mas.to/@smkellat) and new posts from this blog are auto-posted to it using automation on a free tier ARM instance on Oracle Cloud.  RSS is available and its use is encouraged.  The Twitter account was deactivated on January 24th and is **not** returning.  Twitter has become a bad neighborhood these days.
 
 Writing is a form of therapy.  This is helpful to me.  Whether or not these posts are helpful to others is up for debate.
 
