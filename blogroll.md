@@ -7,7 +7,6 @@ permalink: /blogroll/
 In these dark and bizarre times it is necessary to share in the harvest of good blogs and podcasts.  A random non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
 * [86Box](http://86box.net/)
-* [ABC News Daily](https://www.abc.net.au/radio/programs/abc-news-daily/)
 * [Action Castle and other Parsely Games! (from The Incomparable Game Show)](https://www.theincomparable.com/gameshow/actioncastle/)
 * [Alan Pope's blog](https://popey.com/blog/)
 * [as days go by (Stuart Langridge)](https://www.kryogenix.org/days/)
@@ -24,7 +23,7 @@ In these dark and bizarre times it is necessary to share in the harvest of good 
 * [Homeland Security Digital Library](https://www.hsdl.org/c/)
 * [The Incomparable Radio Theater](https://www.theincomparable.com/radio/)
 * [Information Wants To Be Free](https://meredith.wolfwater.com/wordpress)
-* [Jason Scott](http://ascii.textfiles.com/")
+* [Jason Scott](http://ascii.textfiles.com/)
 * [Ken Shirriff's blog](http://www.righto.com/)
 * [Librarian.net](https://www.librarian.net/)
 * [Library Link of the Day](https://www.tk421.net/librarylink/)
