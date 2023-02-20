@@ -18,4 +18,4 @@ To bring forward and adapt a disclaimer previously made elsewhere:
 
 >*All views expressed herein are solely my own.  I do not speak officially on behalf of any governmental or academic institution through this site.  Reader discretion is encouraged.*  
 
-This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.
+This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.
