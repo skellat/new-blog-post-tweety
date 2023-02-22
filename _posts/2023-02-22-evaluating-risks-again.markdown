@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evaluating Risks Again"
-date:   2023-02-22 00:15:00 -0500
+date:   2023-02-22 06:53:00 -0500
 categories: blather
 ---
 To begin, I am quoting @luckytran@med-mastodon.com at <https://med-mastodon.com/@luckytran/109906529338983851> in this #retoot:
