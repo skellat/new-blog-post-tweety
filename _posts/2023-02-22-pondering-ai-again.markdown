@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pondering AI Again"
-date:   2023-02-22 00:40:00 -0500
+date:   2023-02-22 06:55:00 -0500
 categories: blather
 ---
 Quoting @mwl@io.mwl.io: <https://io.mwl.io/@mwl/109881793335623363> #retoot

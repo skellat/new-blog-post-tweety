@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marking Time"
-date:   2023-02-20 00:53:00 -0500
+date:   2023-02-20 06:54:01 -0500
 categories: blather
 ---
 I don't know what is worse.  I am waiting on my two tax returns to be processed.  According to the Ohio Department of Taxation the state return is done.  I'm just waiting for the Internal Revenue Service to finish processing my federal return.  Once all that processing is done I can then figure out the most difficult component of all which happens to be municipal income taxation.
