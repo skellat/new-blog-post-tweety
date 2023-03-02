@@ -16,6 +16,6 @@ You can find Erie Looking Productions online at <https://erielookingproductions.
 
 To bring forward and adapt a disclaimer previously made elsewhere:  
 
->*All views expressed herein are solely my own.  I do not speak officially on behalf of any governmental or academic institution through this site.  Reader discretion is encouraged.*  
+>*All views expressed herein are solely my own.  I do not speak officially on behalf of any governmental or academic institution through this site.  I do not speak officially on behalf of any software project through this site.  Reader discretion is encouraged.*  
 
 This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.
