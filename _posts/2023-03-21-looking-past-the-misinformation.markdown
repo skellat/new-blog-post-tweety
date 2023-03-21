@@ -10,4 +10,4 @@ There are several investigations by different jurisdictions that could lead to D
 
 Why would he even post what he did?  It primarily stirs up the disinformation/misinformation machine.  It was a preemptive strike against law enforcement in this country.  If he could deligitimize his prosecution in any way he would most certainly try.  It looks like he did so by trying to frame the situation as a vendetta against him instead of the wheels of justice turning more slowly than usual.
 
-This is not a good place to be standing as a country.  We can't let this go on and letting the madness go on would'e been quige detrimental.  Getting out of this mess wasn't going to be easy, alas.
+This is not a good place to be standing as a country.  We can't let this go on and letting the madness go on is detrimental.  Getting out of this mess isn't going to be easy, alas.
