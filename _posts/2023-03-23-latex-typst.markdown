@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Using Markdown In LaTeX Without Worry"
-date:   2023-03-23 00:53:00 -0400
+date:   2023-03-23 14:53:00 -0400
 categories: blather
 ---
 Consider the following source file that we'll call `passthrough.markdown`:
 
-```
+```markdown
 There is a project trying to build something like LaTeX but isn't LaTeX that can be found at: <https://github.com/typst/typst/>
 
 It requires some review.
@@ -14,7 +14,7 @@ It requires some review.
 
 Then consider the following source file that we'll call `markdown-test.tex`:
 
-```
+```latex
 % !TeX program = lualatex
 % !TeX encoding = UTF-8
 
@@ -58,15 +58,16 @@ Then consider the following source file that we'll call `markdown-test.tex`:
 \markdownInput{passthrough.markdown}
 \end{document}
 ```
+
 If you take those sources, make them proper local files, and then run them through the latest [TeX Live](https://tug.org/texlive/) you'll find that the Markdown file will get incorporated into the LaTeX source and still be processed thanks to the [markdown](https://ctan.org/pkg/markdown) package on CTAN currently maintained by Vít Novotný.  This is somewhat different from using [pandoc](https://pandoc.org).  Consider the following invocation of `pandoc` using the Markdown source from above:
 
-```
+```bash
 pandoc --output contrast.tex --from markdown --to latex --standalone passthrough.markdown
 ```
 
 That ends up giving you a `contrast.tex` that looks quite different than what I created above.  When I ran `pandoc` it generated:
 
-```
+```latex
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
