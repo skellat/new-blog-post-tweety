@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Looking Past The Misinformation
+title:  "Looking Past The Misinformation"
 date:   2023-03-21 00:33:00 -0400
 categories: blather
 ---
