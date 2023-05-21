@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Brief May Miscellany"
-date:   2023-05-19 00:43:00 -0400
-categories: blather
----
-In no particular order:
-
-* 
