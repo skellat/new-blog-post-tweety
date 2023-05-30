@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Non-Bizarre Title Here"
-date:   2023-06-01 00:33:00 -0400
+title:  "What Do I Want?"
+date:   2023-05-20 00:33:00 -0400
 categories: blather
 ---
 Go ahead and write a textual post here styled in Markdown
