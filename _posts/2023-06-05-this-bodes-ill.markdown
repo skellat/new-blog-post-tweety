@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Looking At Some Fediverse Posts"
-date:   2023-06-06 06:40:00 -0400
+date:   2023-06-05 06:40:00 -0400
 categories: blather
 ---
 Sometimes we need to highlight posts from the fediverse.  This will be a bit of a string of images plus text.  
