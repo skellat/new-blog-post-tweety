@@ -4,7 +4,7 @@ title:  "Looking At Some Fediverse Posts"
 date:   2023-06-05 12:15:00 -0400
 categories: blather
 ---
-Sometimes we need to highlight posts from the fediverse.  This will be a bit of a string of images plus text.  
+Sometimes we need to highlight posts from the fediverse.  This will be a bit of a run of text strings.  
 
 Quoting @lauren@mastodon.laurenweinstein.org: <https://mastodon.laurenweinstein.org/@lauren/110489277073189373> #retoot  
 
