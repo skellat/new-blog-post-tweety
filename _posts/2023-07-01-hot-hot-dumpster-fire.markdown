@@ -10,7 +10,7 @@ Quoting @foo@fosstodon.org: <https://fosstodon.org/@foo/110640518295563046> #ret
 
 *Post by Ryan Finnie. "I managed to lock myself out out of my Twitter account within 3 minutes, simply by scrolling." Posted on Jul 1, 2023 at 15:38*  
 
-Twitter has been a bit of a disaster today.  I think they finally crossed the line to where they're unable to recover.  Heck, we even have Miguel de Icaza mocking the situation today.  Quoting @Migueldeicaza@mastodon.social: *https://mastodon.social/@Migueldeicaza/110640558213734258* #retoot
+Twitter has been a bit of a disaster today.  I think they finally crossed the line to where they're unable to recover.  Heck, we even have Miguel de Icaza mocking the situation today.  Quoting @Migueldeicaza@mastodon.social: <https://mastodon.social/@Migueldeicaza/110640558213734258> #retoot
 
 ![Post by Miguel de Icaza. "Become ungovernable" The post contains an image with the following description: "Screenshot of a tweet saying “this tweet just wasted one of your rate limit slots” followed by the message “rate limit exceeded”" Posted on Jul 1, 2023 at 15:48]({{site.url}}/img/miguel-twitter.jpg)  
 
@@ -22,7 +22,7 @@ Then, of course, we find that this rate limit situation is a bit more ridiculous
 
 *Post by Twitter Death Cult. "just in case anyone was wondering, twitter does indeed count viewing the same tweet multiple times as multiple views. every time you navigate to your feed, even if there's nothing new on it, -20 to your quota. absolutely amazing" Posted on Jul 1, 2023 at 16:13*  
 
-Of course, some people thought instability like this was coming.  Quoting @Pwnallthethings@mastodon.social: https://mastodon.social/@Pwnallthethings/110640380771469469 #retoot
+Of course, some people thought instability like this was coming.  Quoting @Pwnallthethings@mastodon.social: <https://mastodon.social/@Pwnallthethings/110640380771469469> #retoot
 
 ![Post by Pwnallthethings. "hmm" The post contains an image with no description. Posted on Jul 1, 2023 at 15:03]({{site.url}}/img/instability-now.jpg)
 
