@@ -31,3 +31,5 @@ Of course, some people thought instability like this was coming.  Quoting @Pwnal
 In short, it seems like Twitter is approaching self-destruction.  Mr. Musk is currently [restricting user access](https://variety.com/2023/digital/news/twitter-not-loading-elon-musk-announces-limits-posts-users-can-read-1235659936/) for the supposed reason of fending off "data scraping" to fuel large language model AI systems.  The reason I am saying that that is supposed is that a contract with Google also had to be renewed on Friday and it is questionable if Twitter managed to pay its bills on time.  Systems that were on Google Cloud Engine may be not functioning correctly and thereby leading to cascading errors that bring us to this point.  
 
 This situation did not have to happen...  
+
+>*Update at 2339 local time: Mike Masnick pointed out that apparently the Google Cloud bills [are actually being paid](https://ubuntu.social/@mmasnick@mastodon.social/110641215957360817).  If anything that makes this situation worse.  Someone did something really, really stupid in production it seems at Twitter.*
