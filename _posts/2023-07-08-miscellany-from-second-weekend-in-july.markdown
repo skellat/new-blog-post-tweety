@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Miscellany Starting The First Weekend In July"
+title:  "A Miscellany Starting The Second Weekend In July"
 date:   2023-07-08 09:53:00 -0400
 categories: blather
 ---
