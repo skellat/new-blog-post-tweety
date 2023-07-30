@@ -8,11 +8,11 @@ Stephen Michael Kellat maintains this blog.
 
 Financial support and patronage for Stephen's creative endeavors can be provided via [Liberapay](https://liberapay.com/smkellat) and [Ko-Fi](https://ko-fi.com/smkellat).
 
-Short fiction books written by Stephen Michael Kellat are available for purchase on Amazon at <https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J>.
+Short fiction books written by Stephen Michael Kellat were available for purchase on Amazon.
 
 The ELP Television experimentation site can be found at <https://coyote.works/>.  
 
-You can find Erie Looking Productions online at <https://erielookingproductions.info/>.  
+You can find Erie Looking Productions online at <https://www.erielookingproductions.info/>.  
 
 To bring forward and adapt a disclaimer previously made elsewhere:  
 

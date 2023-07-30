@@ -18,7 +18,6 @@ In these dark and bizarre times it is necessary to share in the harvest of good 
 * [Critical Role](https://critrole.com/)  
 * [Drew DeVault's blog](https://drewdevault.com/)
 * [ELP Television](https://coyote.works/)
-* [Euronews Tech Talks](https://shows.acast.com/euronews-tech-talks)  
 * [FOREVER WARS](https://foreverwars.ghost.io/)  
 * [Feuding Families (from Game Show)](https://www.theincomparable.com/gameshow/feud/)
 * [Homeland Security Digital Library](https://www.hsdl.org/c/)
