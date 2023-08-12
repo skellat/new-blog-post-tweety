@@ -4,7 +4,9 @@ title: Links
 permalink: /blogroll/
 ---
 
-In these dark and bizarre times it is necessary to share in the harvest of good blogs and podcasts.  A random non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
+In times like these it is necessary to share good blogs and podcasts.  Search engines increasingly return garbage results and have reduced usefulness.  We may perhaps need to return to the ways of old.
+
+A random non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
 * [86Box](http://86box.net/)
 * [Action Castle and other Parsely Games! (from The Incomparable Game Show)](https://www.theincomparable.com/gameshow/actioncastle/)
