@@ -4,7 +4,7 @@ title: Links
 permalink: /blogroll/
 ---
 
-In times like these it is necessary to share good blogs and podcasts.  Search engines increasingly return garbage results and have reduced usefulness.  We may perhaps need to return to the ways of old.
+In bizarre times like these it is necessary to share good blogs and podcasts.  Search engines increasingly return garbage results and have reduced usefulness.  We may perhaps need to return to the ways of old.
 
 A random non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
@@ -20,7 +20,6 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 * [Critical Role](https://critrole.com/)  
 * [Drew DeVault's blog](https://drewdevault.com/)
 * [ELP Television](https://coyote.works/)
-* [FOREVER WARS](https://foreverwars.ghost.io/)  
 * [Feuding Families (from Game Show)](https://www.theincomparable.com/gameshow/feud/)
 * [Homeland Security Digital Library](https://www.hsdl.org/c/)
 * [Information Wants To Be Free](https://meredith.wolfwater.com/wordpress)

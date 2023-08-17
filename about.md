@@ -8,11 +8,13 @@ Stephen Michael Kellat maintains this blog.
 
 Financial support and patronage for Stephen's creative endeavors can be provided via [Liberapay](https://liberapay.com/smkellat) and [Ko-Fi](https://ko-fi.com/smkellat).
 
-Short fiction books written by Stephen Michael Kellat were available for purchase on Amazon.
+Short fiction books written by Stephen Michael Kellat *were* available for purchase on Amazon.  This effort is on hold in light of the presentation flood of AI-generated crap.  Alternate publication means might have to be sought, it seems.
 
 The ELP Television experimentation site can be found at <https://coyote.works/>.  
 
 You can find Erie Looking Productions online at <https://www.erielookingproductions.info/>.  
+
+The podcast *69 Admins* can be located at <https://69admins.com/>.
 
 To bring forward and adapt a disclaimer previously made elsewhere:  
 
