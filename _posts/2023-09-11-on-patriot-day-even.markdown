@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "On Patriot Day Even?"
+date:   2023-09-11 17:20:00 -0400
+categories: blather
+---
+Today is a federal holiday when we remember the terrible events of September 11, 2001.  Unfortunately we now have some elected lunatics in the United States House of Representatives.  Quoting [@w7voa@journa.host](https://journa.host/@w7voa/): <https://journa.host/@w7voa/111047581623691135> #retoot  
+
+![Post by Steve Herman. "A member of Congress is on social media today saying US states "should consider seceding from the union."" The post contains an image with the following description: "Text of Twitter post by Representative Marjorie Taylor Green to Twitter made at 1500 UTC on September 11, 2023: 'If the Biden admin refuses to stop the invasion of cartel led human and drug trafficking into our country, states should consider seceding from the union.  From Texas to New York City to every town in America, we are drowning from Biden's traitorous America last border policies.'". Posted on Sep 11, 2023 at 13:00]({{site.url}}/img/mtg-secede.jpg)  
+
+>*Post by Steve Herman. "A member of Congress is on social media today saying US states "should consider seceding from the union."" The post contains an image with the following description: "Text of Twitter post by Representative Marjorie Taylor Green to Twitter made at 1500 UTC on September 11, 2023: 'If the Biden admin refuses to stop the invasion of cartel led human and drug trafficking into our country, states should consider seceding from the union.  From Texas to New York City to every town in America, we are drowning from Biden's traitorous America last border policies.'". Posted on Sep 11, 2023 at 13:00*  
+
+I am at a loss.  The calls for secession aren't new.  There were calls in 2021 after the US Capitol Riot according to [*The Hill*](http://web.archive.org/web/20230604235034/https://thehill.com/changing-america/enrichment/arts-culture/563221-shocking-poll-finds-many-americans-now-want-to/).  There were talks of it before the 2021 US Capitol Riot [according to POLITICO](http://web.archive.org/web/20230516215201/https://www.politico.com/news/magazine/2020/12/21/secession-donald-trump-449348).  There is even correlation between stolen election belief and desire for secession [if one poll is to be believed](http://web.archive.org/web/20230214165556/https://victory-insights.com/files/TX_Secession_Poll_OFFICIAL.pdf).  Representative Greene has been beating the drum for this for a while herself [as noted in this article in *The Atlantic* from roughly seven months ago](http://web.archive.org/web/20230710173859/https://www.theatlantic.com/ideas/archive/2023/02/marjorie-taylor-greene-secession-civil-war/673142/).
+
+We are now **19 days** away from the flashpoint of a government shutdown.  Speaker McCarthy has a working majority of 4 which means he is almost but not quite gelded when it comes to finishing up appropriations.  Folks like Marjorie Taylor Greene dragged out the election of a Speaker of the House to take fifteen rounds.  Does anyone seriously think she won't drag out a government shutdown?  She's part of the group [threatening to do so if they don't get their way and be able to at least start an impeachment inquiry of President Biden](http://web.archive.org/web/20230911213350/https://www.cnn.com/2023/09/11/politics/impeachment-government-shutdown-house-return/index.html).  
+
+No, I don't think things are going to be okay.  Things are going to be a bit of a mess soon.  None of this is required to be this way.
