@@ -8,7 +8,6 @@ In bizarre times like these it is necessary to share good blogs and podcasts.  S
 
 A random non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
-* [86Box](http://86box.net/)
 * [Action Castle and other Parsely Games! (from The Incomparable Game Show)](https://www.theincomparable.com/gameshow/actioncastle/)
 * [Alan Pope's blog](https://popey.com/blog/)
 * [Because News from CBC Radio](http://www.cbc.ca/becausenews)
@@ -18,7 +17,6 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 * [Cleveland Scene](https://www.clevescene.com/)
 * [Computer Chronicles Revisited](https://smoliva.blog/)
 * [Critical Role](https://critrole.com/)  
-* [Drew DeVault's blog](https://drewdevault.com/)
 * [ELP Television](https://coyote.works/)
 * [Feuding Families (from Game Show)](https://www.theincomparable.com/gameshow/feud/)
 * [Homeland Security Digital Library](https://www.hsdl.org/c/)
