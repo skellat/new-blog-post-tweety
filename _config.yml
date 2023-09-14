@@ -21,6 +21,7 @@ masto_username: alpacaherder
 liberapay_username: smkellat
 ko_fi_username: smkellat
 wikipedia_username: Smk
+steam_username: alpacaherder
 
 permalink: /:year/:title.html
 
@@ -31,7 +32,7 @@ show_excerpts: true
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template', '_drafts', '.github', 'add-blog-post.sh', 'FutureProofing.md']
+exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template', '_drafts', '.github', 'add-blog-post.sh']
 
 # Timezone
 
