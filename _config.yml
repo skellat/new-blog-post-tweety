@@ -10,7 +10,7 @@ email: ""
 author: Stephen Michael Kellat
 lang: en-us
 description: > # this means to ignore newlines until "baseurl:"
-  Stephen Michael Kellat's attempt at a macro-blog
+  The personal macro-blog of Stephen Michael Kellat
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kellat.me" # the base hostname & protocol for your site
 # twitter_username: writer_smk
