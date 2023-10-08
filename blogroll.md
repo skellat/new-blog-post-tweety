@@ -10,7 +10,7 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 
 * [Action Castle and other Parsely Games! (from The Incomparable Game Show)](https://www.theincomparable.com/gameshow/actioncastle/)
 * [Alan Pope's blog](https://popey.com/blog/)
-* [Because News from CBC Radio](http://www.cbc.ca/becausenews)
+* [as days go by (Stuart Langridge)](https://www.kryogenix.org/days/)
 * [Blog - Xubuntu](https://xubuntu.org/)
 * [Box of Cables](https://boxofcables.dev/)
 * [Candela Obscura](https://critrole.com/shows/candela-obscura/)  
@@ -28,6 +28,7 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 * [Lizbeth Myles](https://lmmyles.com/)
 * [Low Definition (from Game Show)](https://www.theincomparable.com/gameshow/lowdef/)
 * [Open Web Advocacy](https://open-web-advocacy.org/)
+* [pleia2's blog](https://princessleia.com/journal)
 * [PTEN Foundation](https://ptenfoundation.org/)  
 * [Robot or Not?](https://www.theincomparable.com/robot/)
 * [Ryan Finnie](https://www.finnie.org/)
@@ -44,6 +45,4 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 * [Ungeniused](https://www.relay.fm/ungeniused)  
 * [University of California Television](http://www.uctv.tv)  
 * [VideoLAN project](http://www.videolan.org/)
-* [as days go by (Stuart Langridge)](https://www.kryogenix.org/days/)
-* [pleia2's blog](https://princessleia.com/journal)
 * [xkcd](https://xkcd.com/)
