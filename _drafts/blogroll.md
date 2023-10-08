@@ -6,11 +6,9 @@ permalink: /blogroll/
 
 In these dark and bizarre times it is necessary to share in the harvest of good blogs and podcasts.  A random non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
-* [86Box](http://86box.net/)
 * [Action Castle and other Parsely Games! (from The Incomparable Game Show)](https://www.theincomparable.com/gameshow/actioncastle/)
 * [Alan Pope's blog](https://popey.com/blog/)
 * [as days go by (Stuart Langridge)](https://www.kryogenix.org/days/)
-* [Because News from CBC Radio](http://www.cbc.ca/becausenews)
 * [Blog - Xubuntu](https://xubuntu.org/)
 * [Box of Cables](https://boxofcables.dev/)
 * [Cleveland Scene](https://www.clevescene.com/)

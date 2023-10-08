@@ -7,7 +7,7 @@ categories: blather
 
 Quoting [@alpacaherder@ubuntu.social](https://ubuntu.social/@alpacaherder): <https://ubuntu.social/@alpacaherder/111125918584801049> #retoot
 
-![Post by Stephen Michael Kellat. "Off to go to Punderson State Park to testify to the Ohio Redistricting Commission" The post contains an image with the following description: "Traffic on Interstate Route 90 westbound somewhere in Lake County, Ohio" Posted on Sep 25, 2023 at 09:02]({{site.url}}/hearing-trip.jpg)
+![Post by Stephen Michael Kellat. "Off to go to Punderson State Park to testify to the Ohio Redistricting Commission" The post contains an image with the following description: "Traffic on Interstate Route 90 westbound somewhere in Lake County, Ohio" Posted on Sep 25, 2023 at 09:02]({{site.url}}/img/hearing-trip.jpg)
 
 >*Post by Stephen Michael Kellat. "Off to go to Punderson State Park to testify to the Ohio Redistricting Commission" The post contains an image with the following description: "Traffic on Interstate Route 90 westbound somewhere in Lake County, Ohio" Posted on Sep 25, 2023 at 09:02*
 
