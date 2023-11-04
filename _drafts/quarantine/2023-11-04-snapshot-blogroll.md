@@ -29,6 +29,7 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 * [Low Definition (from Game Show)](https://www.theincomparable.com/gameshow/lowdef/)
 * [Open Web Advocacy](https://open-web-advocacy.org/)
 * [pleia2's blog](https://princessleia.com/journal)
+* [PTEN Foundation](https://ptenfoundation.org/)  
 * [Robot or Not?](https://www.theincomparable.com/robot/)
 * [Ryan Finnie](https://www.finnie.org/)
 * [Sean Davis](https://blog.bluesabre.org/)
