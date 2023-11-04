@@ -22,7 +22,7 @@ Karen Kasler reports [that statehouse legislators are proposing to mess with the
 
 People still write about [tools for communicating in difficult circumstances as well as offline](https://www.complete.org/tools-for-communicating-offline-and-in-difficult-circumstances/).  Every day in Ashtabula County could be considered "difficult circumstances", I think.
 
-{REDACTED}
+In coming events we have the [6th Annual International PTEN Symposium](https://ptenfoundation.org/join-us-for-our-6th-annual-international-pten-symposium/) coming up in Cleveland in March.  I'll need to make some calendar space, it appears.
 
 Another sad headline: [Female Bodybuilder Nashali Alma Fights Off Male Attacker in Alarming Viral Gym Video](https://fitnessvolt.com/nashali-alma-fights-off-male-attacker-gym/).  People are getting crazy.  My main reaction is to wonder why she didn't clock him with a dumbbell.
 
