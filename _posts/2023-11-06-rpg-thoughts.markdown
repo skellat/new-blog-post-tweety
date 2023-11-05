@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RPG Thoughts"
-date:   2023-11-06 00:33:00 -0400
+date:   2023-11-06 07:33:00 -0500
 categories: blather
 ---
 Yes, I have been reading through the [Hack100](https://web.archive.org/web/20230515062254/https://hack100rpg.com/wp-content/uploads/2023/04/Hack100_Rulebook_Release1_03.pdf) RPG rules.  These are much, much shorter than the rules for something like [*Dungeons and Dragons 5th Edition*](https://web.archive.org/web/20231102214911/https://dnd.wizards.com/).  The Hack100 rules allow for the possibility of writing some interesting scenarios.  I am trained in terms of writing scenarios for [HSEEP](https://web.archive.org/web/20230524085912/https://preptoolkit.fema.gov/web/hseep-resources) so writing fantasy scenarios shouldn't be too, too hard.
