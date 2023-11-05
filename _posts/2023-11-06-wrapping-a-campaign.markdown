@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wrapping A Campaign"
-date:   2023-11-06 00:23:00 -0400
+date:   2023-11-06 07:23:00 -0500
 categories: blather
 ---
 I am getting very, very tired of the abortion rights campaign from both directions.  This year has been a long, miserable year with tons of horrible campaign ads about abortion.  The pro-life campaigns have been pushing to kick off sex panics of various sorts.  Their rhetoric has been more like what was seen right before the Rwandan genocides kicked off than normal American political discourse, alas.
