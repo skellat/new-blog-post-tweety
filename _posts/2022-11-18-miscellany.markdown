@@ -29,11 +29,6 @@ In a somewhat peculiar order:
     * This is a high COVID-denialism area and high COVID transmission area
     * Culturally this area is extremely reactionary rather than accepting of new things
     * Facebook is treated like AOL was treated 25-30 years ago
-* Teaching continues
-  * I next see my students on Monday
-  * Yes, I am teaching next Wednesday
-  * I am done with teaching this session on December 14th
-  * I am not yet assigned any sections to teach in the next semester
 * Church continues to be interesting
   * Livestreaming for [Geneva Church of Christ](https://genevachurchofchrist.org) continues
   * I will be preaching for the regular morning service on December 11th

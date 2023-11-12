@@ -14,6 +14,6 @@ Twitter has been having issues today since the layoffs took place at 1600 UTC.  
 
 The guys at [RiffTrax](https://rifftrax.com/) are starting to abandon ship on Twitter as they're pointing people to Instagram and Tumblr.  While not surprising it is still sad.  Bill Corbett is walking away from his Twitter account and I'm not sure what Kevin and Mike are doing.
 
-This blog will likely be the way forward as Twitter's implosion continues.  I'm not looking at jumping to Mastodon.  That realm is just too frakking weird.  As long as it is up [my account on Identica still exists](https://identi.ca/alpacaherder) after all these years even in the `pump.io` era.  I may look at [Secure Scuttlebutt](https://en.wikipedia.org/w/index.php?title=Secure_Scuttlebutt&oldid=1116253870) potentially once I get through teaching my current class.
+This blog will likely be the way forward as Twitter's implosion continues.  I'm not looking at jumping to Mastodon.  That realm is just too frakking weird.  As long as it is up [my account on Identica still exists](https://identi.ca/alpacaherder) after all these years even in the `pump.io` era.  I may look at [Secure Scuttlebutt](https://en.wikipedia.org/w/index.php?title=Secure_Scuttlebutt&oldid=1116253870) potentially once I get through my current work tasking.
 
 Life is full of change but you don't expect to hit you so fast and so bunched up.

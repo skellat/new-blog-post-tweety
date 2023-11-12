@@ -6,10 +6,6 @@ categories: blather
 ---
 Once more with feeling...
 
-* It appears that I won't know any time soon if I will be teaching in the spring.  
-  * Apparently not many of the faculty know what they'll be teaching in the spring.
-  * I am not alone in not having any assigned sections.
-  * I'm not depending upon income from teaching, of course.
 * Twitter is becoming more of a nightmare.
   * The explore tab is now quite full of QAnon-related and antivaxx-related content.
   * My mentions tab now recommends QAnon-related and antivaxx-related content to me.
@@ -30,6 +26,6 @@ Once more with feeling...
   * If a presidential appointment with senate confirmation or a gubernatorial appointment with senate confirmation was on offer I would quite possibly consider it.  The likelihood of any such thing being on offer is less than me winning the lottery.  Anybody interested in nominating me can look at the Plum Book as to federal positions, I suppose.  The Governor of Ohio's home page has a section listing positions too plus a form to nominate people to him.
 * There are no clear plans for 2023.
   * Nothing is really certain right now.
-  * Unless I get offered a section or two to teach I'll be back to planning no more than two weeks ahead.
+  * Unless I get offered a work tasking I'll be back to planning no more than two weeks ahead.
   * No grand plans are even in mind right now.
 * Life is just very weird these days.

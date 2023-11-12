@@ -6,9 +6,6 @@ categories: blather
 ---
 In no particular order:
 
-* I am back in the classroom teaching on Monday.  
-  * The class I teach is a Windows-centric class.  
-  * I end up teaching basics of computer use.  
 * It looks like the first proper episode of [69 Admins](https://69admins.com/) will be recorded soon for release on April 15th.  
 * Learning about [edbrowse](https://www.edbrowse.org/usersguide.html) seems to be an item to consider.  
 * I'm not looking forward to the outpatient procedures coming up in a few days.  They're not exactly the most comfortable things to have to go through.  

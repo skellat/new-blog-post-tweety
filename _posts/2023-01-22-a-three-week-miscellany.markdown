@@ -29,9 +29,6 @@ In no particular order:
   * Results from tests could change the course of life decisions, unfortunately.
   * While I am fortunate that there are world class doctors at Cleveland Clinic and University Hospitals of Cleveland, the need to be near them keeps me tethered to northeast Ohio.  When some of those doctors are leading experts in the world on issues that are of possibly vital importance to me frankly I can't leave the area.
   * I'm not sure where I'd relocate to at this point.  Toronto has satellite facilities of Cleveland Clinic there.  There are also satellite facilities in Abu Dhabi and the capital of the United Kingdom.  CCF focuses on being a global powerhouse for medical care.
-* Heading back to teaching is looking interesting
-  * I have to remember to send the e-mail to accept the offer made
-  * I'll have a bit more "vacation time" from teaching until I am back in the classroom
 * I've paused the dating app and canceled the subscription
   * There were no viable hits in it
   * The only responses I got were from women *located in Canada*

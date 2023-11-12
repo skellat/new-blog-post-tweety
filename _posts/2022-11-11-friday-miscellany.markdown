@@ -6,7 +6,7 @@ categories: blather
 ---
 For this early on a Friday we now turn to a miscellany of brief items.  In no particular order:
 
-* A very good podcast is [The Gerry Anderson Randomiser](https://gerry-anderson-randomiser.captivate.fm).  It has been a joy to listen to in the car while commuting between home and the teaching sites.
+* A very good podcast is [The Gerry Anderson Randomiser](https://gerry-anderson-randomiser.captivate.fm).  It has been a joy to listen to in the car while commuting between home and the work sites.
 * I have [`feed2toot`](https://pypi.org/project/feed2toot/) configured on a free tier VM on Oracle's cloud.  It will auto-post new blog entries to the Mastodon instance found at <https://mas.to>.
 * Another very good podcast is [Random Pursuit](https://www.theincomparable.com/gameshow/trivia/).  I think I am current and have listened to the whole back catalog of that show now.
 * Discussed with my Licensed Professional Clinical Counselor who has training in treating trauma issues the whole debate over the infamous "content warning" matters on Mastodon.  She finds the huge amount of "content warning" tagging to be odd.  

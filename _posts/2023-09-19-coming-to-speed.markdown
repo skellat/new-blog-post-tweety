@@ -12,7 +12,7 @@ Quoting [@debian@framapiaf.org](https://framapiaf.org/@debian): <https://framapi
 
 >*Post by Debian. "Today Sunday 17, September, is the last day of DebConf23, starting at 10:30 ITS (05:00 UTC)! Have a look at the schedule for the day. debconf23.debconf.org/schedule… We remind you that you can watch most of the talks streamed online by clicking on Venue names in the schedule. You can also watch the recorded talks published later. #debian #debconf #debconf23 #freesoftware #dc23 #kochi #debconfkochi #debianindia" Posted on Sep 17, 2023 at 00:27*
 
-Yeah, it totally slipped my mind that this event was even taking place.  I've still been reeling from events arising from recent visits to medical practitioners.  I'm stuck a bit in the Windows world thanks to the teaching position I presently hold.
+Yeah, it totally slipped my mind that this event was even taking place.  I've still been reeling from events arising from recent visits to medical practitioners.  I'm stuck a bit in the Windows world thanks to a current work tasking.
 
 # Health
 

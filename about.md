@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Stephen Michael Kellat is this blog's maintainer.  To bring forward and adapt a disclaimer previously made elsewhere:  
+Stephen Michael Kellat is this blog's maintainer.  A disclaimer previously made elsewhere states in pertinent part:  
 
 >*All views expressed herein are solely my own.  I do not speak officially on behalf of any governmental or academic institution through this site.  I do not speak officially on behalf of any software project through this site.  Reader discretion is encouraged.*  
 

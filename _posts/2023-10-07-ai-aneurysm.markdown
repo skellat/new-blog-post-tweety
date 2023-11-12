@@ -27,4 +27,4 @@ It probably also related to what Peter Murray was posting about too.  Quoting [@
 
 >*Post by Peter Murray. "🔖 4chan Uses Bing to Flood the Internet With Racist Images | 404 Media 404media.co/4chan-uses-bing-to… #BookmarkShare" Posted on Oct 5, 2023 at 21:11*
 
-All in all, this is not looking good.  I've tried to teach my digital literacy students as best I can about generative AI.  Increasingly it looks like we have barely begun to consider the implications of what we're getting into with this software.  Humanity is fallen and broken so assuming good intent on the part of users with software like this is probably not the best of ideas.
+All in all, this is not looking good.  Increasingly it looks like we have barely begun to consider the implications of what we're getting into with this software.  Humanity is fallen and broken so assuming good intent on the part of users with software like this is probably not the best of ideas.

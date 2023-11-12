@@ -4,7 +4,7 @@ title:  "Sleep Is Needed"
 date:   2023-03-20 00:33:00 -0400
 categories: blather
 ---
-Monday is a bit of a road day.  I have to head into northern Medina County for a medical appointment.  I'm actually double-booked on webinars with one starting at 1900 UTC and one starting at 1930 UTC.  The one starting at 1900 UTC is the more important of the two as it relates to teaching with respect to ChatGPT.  Considering my being an "adjunct instructor of computer science" at a community college that is kinda sorta a high priority event to observe.
+Monday is a bit of a road day.  I have to head into northern Medina County for a medical appointment.  I'm actually double-booked on webinars with one starting at 1900 UTC and one starting at 1930 UTC.  The one starting at 1900 UTC is the more important of the two as it relates to teaching with respect to ChatGPT.  Considering my my role with the employer that is kinda sorta a high priority event to observe.
 
 Attendance at church in-person was bad Sunday.  Then again, it was nasty yet cold out.  Online viewership wasn't too great either during the in-person service.  It isn't that Paul and I are scaring people off with our preaching.  If we are scaring people off then they're not really ready for quite a lot of things.
 

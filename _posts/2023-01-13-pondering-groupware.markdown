@@ -4,7 +4,7 @@ title:  "Pondering Groupware"
 date:   2023-01-13 01:02:00 -0500
 categories: blather
 ---
-One of the ways to get past the lack of room is to start implementing groupware.  During my recent brief stint as an adjunct instructor at a community college I had the chance to consider unique ways Microsoft Teams could be used to provide for a "virtual office".  At present the commercial real estate market in the Ashtabula area is just not that good.  There are plenty of unusable properties that have overinflated prices attached to them and frankly nothing that is anywhere close to usable.
+One of the ways to get past the lack of room is to start implementing groupware.  I recently had the chance to consider unique ways Microsoft Teams could be used to provide for a "virtual office".  At present the commercial real estate market in the Ashtabula area is just not that good.  There are plenty of unusable properties that have overinflated prices attached to them and frankly nothing that is anywhere close to usable.
 
 How would Teams provide for a "virtual office"?  Assuming I could find collaborators I would end up having to provision the Cloud PBX and other telephony options.  We would need ways to receive phone calls as well as be able to call each other directly.  Teams also interoperates with OBS Studio so a person could use it to stream their video from another location to my own for recording.  A theoretical use in that case would be to have two presenters at different locations piping their audiovisual content over Teams back to me to route and mix down.  Storage via OneDrive for Business would allow for easier transfer of bulky rich media files.
 

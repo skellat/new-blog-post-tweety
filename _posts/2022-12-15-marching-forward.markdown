@@ -4,7 +4,7 @@ title:  "Marching Forward"
 date:   2022-12-15 00:11:00 -0500
 categories: blather
 ---
-I am done teaching at the community college for 2022.  Teaching an introductory class in Computer & Information Systems was definitely an experience.  It was a great thing to have been able to do.
+I am done with work at the employer for 2022.  It was definitely an experience.  It was a great thing to have been able to do.
 
 In the coming days I have plenty of things to do.  The Christmas Eve service was promoted in *The* (Jefferson, Ohio) *Gazette* nicely.  I did take a snapshot of the press release's insert.
 
