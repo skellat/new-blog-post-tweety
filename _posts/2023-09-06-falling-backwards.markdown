@@ -6,7 +6,7 @@ categories: blather
 ---
 As a world we are facing a big test now.  If we ignore, minimize, and obfuscate relative to SARS-CoV-2, will it leave us alone?  That's essentially government policy around much of the world and much of popular thought.  
 
-One of the key staff at the college is sick once again with COVID-19 as is the rest of that staffer's family.  The news brought word of First Lady Jill Biden being sick once again with COVID-19.  The Ohio [COVID-19 data reports](https://data.ohio.gov/wps/portal/gov/data/view/covid-19-reporting) are now hosted on the Data Ohio hub but thankfully they're still being updated.  Wastewater reporting is the key indicator of how we're doing in terms of viral activity locally.
+One of the key staff at the employer is sick once again with COVID-19 as is the rest of that staffer's family.  The news brought word of First Lady Jill Biden being sick once again with COVID-19.  The Ohio [COVID-19 data reports](https://data.ohio.gov/wps/portal/gov/data/view/covid-19-reporting) are now hosted on the Data Ohio hub but thankfully they're still being updated.  Wastewater reporting is the key indicator of how we're doing in terms of viral activity locally.
 
 Mandates are a matter of slamming the barn door closed after the horses have already bolted.  It is important to watch how people are acting in the here and now.  Hospitals are already re-imposing mask requirements in my relative region as seen in New York State.  News outlets increasingly have their reporters separated so that some are working from home and are distributed away from being concentrated in studios.  Schools are seeing staff out sick again.  Performers like Ricky Gervais are going down the stupid path of trying to "power through it".
 

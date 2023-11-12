@@ -10,6 +10,4 @@ Recently I visited Indiana.  I've never visited Indiana before.  During this tri
 
 I wound up playing tabletop role playing games for the first time in online environments.  Frankly it was the first time playing TTRPGs in *any* setting at all to the best of my recollection.  The two one-shots were fun that I participated in.  I have looked on roll20 to see if there are other games I might be able to join that can fit my odd schedule.
 
-Teaching continues as I wrap up another term.  The last class meeting for the term will be Tuesday.  We'll have a kick-off meeting for faculty next Thursday then I'll be back in action on August 22nd.  Yeah, I am still teaching the same digital literacy class.  Since it is a general education requirement that's where I am needed most instead of the more specialized classes.
-
 Our knowledge ecology has continued to fall apart in Ashtabula County.  The big problem here is that there is no clear way to keep something sustained.  The daily newspaper is still averaging around 12 pages per day.  That's less than we need for it to be a "newspaper of general circulation".  That seemingly had consequences for the Issue 1 campaign in the August special election.  That's another story for another time, though...

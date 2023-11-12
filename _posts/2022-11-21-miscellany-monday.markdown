@@ -7,8 +7,8 @@ categories: blather
 In no particular order:
 
 * There is some sort of holiday later this week, I suppose.
-  * I am still teaching this week
-  * I am still teaching Wednesday night
+  * I am still working this week
+  * I am still working Wednesday night
 * Increasingly I end up convinced that Gerry Anderson's vision of the future is what our world is converging towards in far too many ways.
   * The Antonov An-225 leaves me wondering when exactly *Thunderbirds* first aired in the Soviet Union, for example.
   * We're less than 40 years away from the time when the story of *Thunderbirds* and *Stingray* was said to take place.

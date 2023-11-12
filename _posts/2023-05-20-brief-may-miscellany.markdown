@@ -9,9 +9,6 @@ In no particular order:
 * The Writer's Guild of America strike continues
   * Network television line-ups for the fall are increasingly becoming mixes of "unscripted" and foreign acquisitions.
   * I am going to be clearing my [Big Finish](https://www.bigfinish.com) backlog as well as my [comic book](https://simple.wikipedia.org/w/index.php?title=Comic_book&oldid=8831423) backlog and my [graphic novel](https://simple.wikipedia.org/w/index.php?title=Graphic_novel&oldid=8749592) backlog.
-* I will be teaching for the summer term
-  * This gives me a two week gap between my current term and the summer term
-  * Yes, I am still teaching the same class
 * I am exploring the creation of SCORM content
   * SCORM stands for [Shareable Content Object Reference Model](https://en.wikipedia.org/w/index.php?title=Sharable_Content_Object_Reference_Model&oldid=1135535399)
   * Right now I am using [eXeLearning](https://github.com/exelearning/iteexe) for authoring

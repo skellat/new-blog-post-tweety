@@ -26,5 +26,4 @@ In no particular order:
   * *Book Riot* [A Censorship Language Primer](https://bookriot.com/a-censorship-language-primer/)
   * *Ars Technica* [Motorola’s “Satellite Link” hotspot lets you send messages via outer space](https://arstechnica.com/gadgets/2023/06/motorolas-satellite-link-hotspot-lets-you-send-messages-via-outer-space/)
   * *The Roys Report* [Americans Who Never Attend Church Now Outnumber Regular Attendees](https://julieroys.com/americans-who-never-attend-church-now-outnumber-regular-attendees/)
-* I'm finding that I am a halfway decent teacher when it comes to computer basics
 * I'm finding that hiding any talent or skill in the arts so as to conform to the business worlds expectations of efficiency and productivity to keep the mighty engine of capitalism running has not necessarily been good for me.  I certainly would have been far happier if I had previously let artistic expression flow more in my life.

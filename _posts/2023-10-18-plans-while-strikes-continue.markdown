@@ -16,4 +16,4 @@ I haven't decided whether I would want to do this via video program or audio pod
 
 The best outlets for new non-news, non-sports programming that I have found lately are still [Dumb Industries](https://dumb-industries.com/) and [Critical Role](https://critrole.com/).  I'm not ready to go down the road of movie riffing.  Having persons from the Linux world doing TTRPG stuff would be kinda neat for an odd sort of audience, I suppose.
 
-Eventually I might find a production partner to make this happen.  Right now I am busy teaching at the college.  I definitely cannot be a "one man band" to pull off something like this.
+Eventually I might find a production partner to make this happen.  Right now I am busy with the employer.  I definitely cannot be a "one man band" to pull off something like this.

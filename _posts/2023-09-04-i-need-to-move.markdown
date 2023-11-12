@@ -29,13 +29,9 @@ In no particular order:
     + The only other newspapers in the county are the regional weeklies that share the same editor and almost all the same content
     + As this isn't getting better we need to do *something*
   + Commercial real estate is a nightmare here that has held this back and I still don't have a good answer to it
-+ Teaching continues
++ Work continues
   + The commute is still rough
-  + As legislation moves through its steps in the statehouse in Columbus, doing this sort of teaching in Ohio is increasingly not in the cards
-  + I suppose I need to sit down and take some certification tests myself
-    + I could take the Microsoft Office Specialist tests
-    + The A+ test might be possible too
-    + Further consideration is required
+  + As legislation moves through its steps in the statehouse in Columbus, doing this sort of work tasking in Ohio is increasingly not in the cards
 + Church life continues
   + We're still streaming and people are still watching
   + I'm still there at Geneva Church of Christ

@@ -26,7 +26,7 @@ In no particular order:
     + It is still a goal to get me to a 24.9 BMI or lower but now it is looking like that's going to be far more exciting of a challenge than anybody imagined
   + The evaluative testing battery continues though I am in a break right now
     + Another big test is coming up
-    + The challenge for that big test is that it will take place in the morning in Westlake and then after the test I still have to teach the night class in Erie
+    + The challenge for that big test is that it will take place in the morning in Westlake and **REDACTED**
 + Dating & Relationships
   + Effectively non-existent
   + **REDACTED**

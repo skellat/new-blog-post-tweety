@@ -4,7 +4,7 @@ title:  "What Do I Want?"
 date:   2023-07-30 14:33:00 -0400
 categories: blather
 ---
-Between staying busy with teaching and staying busy with the continuing care odyssey, the dating matter has basically been on ice.  Consider what I wrote on February 15th:
+Between staying busy with the working taskings and staying busy with the continuing care odyssey, the dating matter has basically been on ice.  Consider what I wrote on February 15th:
 
 * The dating game looks weird.
   * Axios Columbus mentioned on Valentine's Day that [❤️ In Ohio, love is local](https://www.axios.com/newsletters/axios-columbus-98c5a5a0-266a-4193-a96f-10630166e816.html?chunk=1&utm_term=emshare#story1)
