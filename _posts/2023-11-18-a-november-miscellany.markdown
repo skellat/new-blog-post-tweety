@@ -43,7 +43,7 @@ In no particular order:
   + While it might not be good for a human to be alone I may be in a bit of a bizarre position in life
   + Do I want to get into "unequal yokes" and the complications of invisible struggles that people have?  No, not really
 + I have no clue what is coming
-+ The salte is looking *somewhat* clear for the state of 2024
++ The slate is looking *somewhat* clear for the state of 2024
 + Site evaluations need to resume so I can find a better bolthole
   + In this instance, a "bolthole" is a fallback position to bug out to if things are getting ridiculous
   + There are medical concerns that play into those considerations
