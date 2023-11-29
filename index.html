@@ -4,10 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">The Most Recent Ten Posts</h1>
+  <!-- <h1 class="page-heading">The Most Recent Ten Posts</h1> -->
+  <h1 class="page-heading">Blog Entries</h1> 
 
   <ul class="post-list">
-    {% for post in site.posts limit:10 %}
+   <!-- {% for post in site.posts limit:10 %} -->
+   {% for post in site.posts %}
+
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

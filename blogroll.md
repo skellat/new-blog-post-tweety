@@ -23,8 +23,6 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 * [Open Web Advocacy](https://open-web-advocacy.org/)
 * [pleia2's blog](https://princessleia.com/journal)
 * [Robot or Not?](https://www.theincomparable.com/robot/)
-* [Ryan Finnie](https://www.finnie.org/)
-* [Sean Davis](https://blog.bluesabre.org/)
 * [The Gerry Anderson Randomiser](https://gerry-anderson-randomiser.captivate.fm)
 * [The SWLing Post](https://swling.com/blog)
 * [TidBITS](https://tidbits.com/)

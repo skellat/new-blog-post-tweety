@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Stephen Michael Kellat is this blog's maintainer.  A disclaimer previously made elsewhere states in pertinent part:  
+The maintainer of this blog is Stephen Michael Kellat.  A disclaimer previously made elsewhere states in pertinent part:  
 
 >*All views expressed herein are solely my own.  I do not speak officially on behalf of any governmental or academic institution through this site.  I do not speak officially on behalf of any software project through this site.  Reader discretion is encouraged.*  
 
-Financial support and patronage for Stephen's creative endeavors can be provided via [Ko-Fi](https://ko-fi.com/smkellat) and [Liberapay](https://liberapay.com/smkellat).  Soon it may be possible to use Patreon but continues to be a matter in development.
+Financial support and patronage for Stephen's creative endeavors can be provided via [Ko-Fi](https://ko-fi.com/smkellat).  Support is encouraged to allow him to be able to work on creative endeavors such as writing fiction, creating things using LaTeX, and returning more to podcasting.  Podcasting as a side hustle is rough.
 
 You can find Erie Looking Productions online at <https://www.erielookingproductions.info/>.  
 

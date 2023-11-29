@@ -21,7 +21,7 @@ In no particular order:
   + Development of this plan is needed
 + I need to tame my inboxes
   + Yes, inboxes
-  + Although I have used [mutt](https://en.wikipedia.org/wiki/Mutt_(email_client)) play nice with mutt which means I will need to be consolidated
+  + Although I have used [mutt](https://en.wikipedia.org/wiki/Mutt_(email_client)) there are various third-party e-mail provider platforms that do not play nice with mutt which means I would need to work harder to consolidate things
   + I've been pruning subscriptions and it hasn't been working well
 + Thanksgiving is set to be weird
   + Some family will be traveling to Indiana to visit with other family
