@@ -10,7 +10,7 @@ email: ""
 author: Stephen Michael Kellat
 lang: en-us
 description: > # this means to ignore newlines until "baseurl:"
-  The personal macro-blog of Stephen Michael Kellat
+  The core blog of Stephen Michael Kellat
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kellat.me" # the base hostname & protocol for your site
 # twitter_username: writer_smk
@@ -32,7 +32,7 @@ show_excerpts: true
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template', '_drafts', '.github', 'add-blog-post.sh']
+exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template', '_drafts', '.github', 'add-blog-post.sh', 'archive.html']
 
 # Timezone
 
