@@ -21,6 +21,7 @@ A random non-comprehensive judgmental sampling of blogs and podcasts from both m
 * [Library Link of the Day](https://www.tk421.net/librarylink/)
 * [Lizbeth Myles](https://lmmyles.com/)
 * [Low Definition (from Game Show)](https://www.theincomparable.com/gameshow/lowdef/)
+* [M.T. Black Games](https://www.mtblackgames.com/blog/)
 * [Michael Warren Lucas](https://mwl.io/)
 * [Open Web Advocacy](https://open-web-advocacy.org/)
 * [pleia2's blog](https://princessleia.com/journal)
