@@ -16,4 +16,4 @@ The general experimentation site can be found at <https://coyote.works/>.
 
 This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.
 
-In light of the coming entry into force of Ohio's Social Media Parental Notification Act on January 15th, this site will *not* have comments available.  We apologize for any difficulties caused.  Thanks to gerrymandering we get weird enactments like this.
+This blog does not have comments at this time due to the presently unsettled legal situation created by the Ohio General Assembly and its unusual enactments lately.
