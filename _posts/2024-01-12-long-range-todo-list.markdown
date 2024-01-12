@@ -22,4 +22,4 @@ To be accomplished eventually:
 + Find a partner
 + Return to experimenting with Greenstone Digital Library software
 + Establish my own cgit server or other such thing
-+ Create my own video lop and start it running on Twitch or some other streamer
++ Create my own video loop and start it running on Twitch or some other streamer
