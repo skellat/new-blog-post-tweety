@@ -18,7 +18,7 @@ Texas was doing some crazy and inhuman things out there.  Texas militia on state
 
 >*No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.*
 
-The main argument Texas has been making is that it thinks it is "actually invaded" and that it can therefore proceed with war-like acts with the federal governments consent as it tries to beat back the invader.  They lost on that argument in the original trial.  When they went on appeal to the United States Court of Appeals for the Fifth Circuit they got an injunction that effectively breathed life back into their argument.  The Chief Justice and justices Barrett, Sotomayor, Kagan, and Jackson nuked the injunction.
+The main argument Texas has been making is that it thinks it is "actually invaded" and that it can therefore proceed with war-like acts without the federal government's consent as it tries to beat back the supposed invader.  They lost on that argument in the original trial.  When they went on appeal to the United States Court of Appeals for the Fifth Circuit they got an injunction that effectively breathed life back into their argument.  The Chief Justice and justices Barrett, Sotomayor, Kagan, and Jackson nuked the injunction.
 
 The Republican Party is exceedingly fixated on the southern border.  The governors of Texas and Florida have been using it to cause an interstate crisis by shipping migrants around the country.  This legal battles creates a further flashpoint.
 
