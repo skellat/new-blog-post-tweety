@@ -16,4 +16,4 @@ The general experimentation site can be found at <https://coyote.works/>.
 
 This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.
 
-This blog does not have comments at this time due to the presently unsettled legal situation created by the Ohio General Assembly and its unusual enactments lately.
+This blog does not have comments at this time due to the presently unsettled legal situation.
