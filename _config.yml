@@ -5,7 +5,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Site settings
-title: Main Mission Monitoring
+title: Exact Radar Interdiction Extra
 email: ""
 author: Stephen Michael Kellat
 lang: en-us
@@ -21,7 +21,7 @@ masto_username: alpacaherder
 liberapay_username: smkellat
 ko_fi_username: smkellat
 wikipedia_username: Smk
-steam_username: alpacaherder
+#steam_username: alpacaherder
 
 permalink: /:year/:title.html
 
