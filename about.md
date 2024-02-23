@@ -10,7 +10,7 @@ Stephen's non-academic endeavors can be supported financially via [Ko-Fi](https:
 
 You can find Erie Looking Productions online at <https://www.erielookingproductions.info/>.  
 
-The podcast *69 Admins* can be located at <https://69admins.com/>.
+The podcast *69 Admins* about the world of streaming television can be found at <https://69admins.com/>.
 
 The general experimentation site can be found at <https://coyote.works/>.  
 
