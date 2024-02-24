@@ -12,7 +12,7 @@ In no particular order:
     * There are plenty out there
     * It is already hard to choose where to be
   * I lack the patience to attempt to self-host at this time.
-    * The efforts by [Alan Pope](https://ubuntu.social/@popey) show that it takes quite a bit of work.
+    * The efforts by [Alan Pope](https://mastodon.social/@popey) show that it takes quite a bit of work.
     * Having [a static site weblog](https://en.wikipedia.org/w/index.php?title=Static_site_generator&oldid=1125711762) is more my speed right now
 * Thursday was road trip day to Erie
   * Got some background check work done
