@@ -8,6 +8,6 @@ We very strongly encourage and support the use of RSS to follow this blog.  Feel
 
 Don't have a feed reader?  We strongly suggest using great tools like these:
 
-| Text-Based (ncurses)                  | iOS/iPadOS                                  | GUI                                             | Command-line                                                 |
+|Text-Based (ncurses)                  |iOS/iPadOS                                  |GUI                                             |Command-line                                                 |
 |---------------------------------------|---------------------------------------------|-------------------------------------------------|--------------------------------------------------------------|
-| [Newsboat](https://newsboat.org/) | [NetNewsWire](https://netnewswire.com/) | [Thunderbird](https://www.thunderbird.net/) | [rsstail](https://github.com/folkertvanheusden/rsstail), |
+| [Newsboat](https://newsboat.org/) | [NetNewsWire](https://netnewswire.com/) | [Thunderbird](https://www.thunderbird.net/) | [rsstail](https://github.com/folkertvanheusden/rsstail) |

@@ -8,7 +8,7 @@ As social media continues to fail us, we need to return to the ways of old.  In 
 
 A rather non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
-| People | Blogs/Podcasts | Institutions |
+|People |Blogs/Podcasts |Institutions |
 |--------|----------|--------------|
 |[as days go by (Stuart Langridge)](https://www.kryogenix.org/days/)        |[Dragon Friends](https://thedragonfriends.com/)          |[Blog - Xubuntu](https://xubuntu.org/)              |
 |[ASCII by Jason Scott](http://ascii.textfiles.com/)         |[Daily Adventure Prompts](https://dailyadventureprompts.tumblr.com/)          |[Critical Role](https://critrole.com/)              |
