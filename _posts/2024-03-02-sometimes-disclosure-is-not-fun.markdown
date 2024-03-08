@@ -4,7 +4,7 @@ title:  "Sometimes Disclosure Is Not Fun"
 date:   2024-03-02 23:09:00 -0500
 categories: blather
 ---
-Well, there is a [Patreon creator account](https://patreon.com/erielookingproductions) established.  
+Well, there is a [Patreon creator account](https://patreon.com/erielookingproductions?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) established.  
 
 Why do this?  Well, backup contingency plans are always useful to have in place.  I have no security of tenure in the work that I am doing right now in the "day job" so it can disappear at any time.  
 
