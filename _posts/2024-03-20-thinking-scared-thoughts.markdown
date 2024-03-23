@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Thinking Scared Thoughts"
-date:   2024-03-20 23:39:00 -0500
+date:   2024-03-20 23:39:00 -0400
 categories: blather
 ---
-Well, when you have a major presidential candidate acting like a crazy person you wind up with feelings of being scared.  I think those feelings may be justifiable.  After all, during a speech over the weekend we had the ex-president and leader of the out-party loudly talking about elections *that never happened*, calling convicted felons patriots, and otherwise sounding like an escapee from a psychiatric care institution.
+Well, when you have a major presidential candidate acting like a crazy person you wind up with feelings of being scared.  I think those feelings may be justifiable.  After all, during a speech over the prior weekend we had the ex-president and leader of the out-party loudly talking about elections *that never happened*, calling convicted felons patriots, and otherwise sounding like an escapee from a psychiatric care institution.
 
 The local Republican Party picked up a bunch of new partisans in the primary election on Tuesday.  That major presidential candidate got a relatively large amount of the vote.  Quite a lot of people are drinking the kool-aid.
 
