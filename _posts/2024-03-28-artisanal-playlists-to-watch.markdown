@@ -6,8 +6,8 @@ categories: blather
 ---
 Now that the term is done I can watch some recorded materials from PAX East 2024 perhaps.  Such items could include:
 
-+ [Code, Sweat, and Cheers: How we Made Cyberpunk 2077: Phantom Liberty | PAX East 2024](https://youtu.be/-_AIOjGyHgs)  
-+ [Metroid: A Community Retrospective and Look Toward the Future | PAX East 2024](https://youtu.be/Yr1UJAdXfIM)  
++ [Code, Sweat, and Cheers: How we Made Cyberpunk 2077: Phantom Liberty  PAX East 2024](https://youtu.be/-_AIOjGyHgs)  
++ [Metroid: A Community Retrospective and Look Toward the Future  PAX East 2024](https://youtu.be/Yr1UJAdXfIM)  
 
 Then perhaps from Southern California Linux Expo:
 
