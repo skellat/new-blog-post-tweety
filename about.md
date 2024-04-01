@@ -14,6 +14,8 @@ The podcast *69 Admins* about the world of streaming television can be found at 
 
 The general experimentation site can be found at <https://coyote.works/>.  
 
-This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.
+Other domain names exist but do not point to anything *yet*.
+
+This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.  This blog proudly utilizes [Git LFS](https://git-lfs.com/).
 
 This blog does not have comments at this time due to the presently unsettled legal situation.
