@@ -11,4 +11,3 @@ The maintainer of this blog is Stephen Michael Kellat.  A disclaimer previously 
 >*I do not speak officially on behalf of any governmental or academic institution through this site.  I do not speak officially on behalf of any software project through this site.*
 >
 >*Reader discretion is encouraged.*  
-
