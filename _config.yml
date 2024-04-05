@@ -1,8 +1,8 @@
 # Experimentation with a theme
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
-- github-pages
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- github-pages
 
 # Site settings
 title: Monitoring Main Mission
@@ -22,6 +22,9 @@ liberapay_username: smkellat
 ko_fi_username: smkellat
 wikipedia_username: Smk
 #steam_username: alpacaherder
+
+show_downloads: "false" #["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
 
 permalink: /:year/:title.html
 
