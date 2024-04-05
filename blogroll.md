@@ -15,6 +15,7 @@ A rather non-comprehensive judgmental sampling of blogs and podcasts from both m
 |[Evan Prodromou](https://evanp.me/)         |[Election Law Blog](https://electionlawblog.org/)          |[M.T. Black Games](https://www.mtblackgames.com/blog/)              |
 |[Jeff Jarvis](https://buzzmachine.com/)        |[Experimental Radio News](https://www.experimentalradio.news/)          |[Nieman Lab](https://www.niemanlab.org/)               |
 |[Librarian.net](https://www.librarian.net/)        |[Robot or Not?](https://www.theincomparable.com/robot/)          |[The Gerry Anderson Randomiser](https://gerry-anderson-randomiser.captivate.fm)              |
-|[pleia2's blog](https://princessleia.com/journal)        |[Ungeniused](https://www.relay.fm/ungeniused)           |[University of California Television](http://www.uctv.tv)               |
-|[The SWLing Post](https://swling.com/blog)        |          |              |
+|[pleia2's blog](https://princessleia.com/journal)        |[Save the D8](https://www.savethed8pod.com)           |[University of California Television](http://www.uctv.tv)               |
+|[The SWLing Post](https://swling.com/blog)        |[Tales from Trantor](https://talesfromtrantor.com)         |              |
+|        |[Ungeniused](https://www.relay.fm/ungeniused)          |              |
 |        |          |              |
