@@ -4,7 +4,7 @@ title: Links
 permalink: /blogroll/
 ---
 
-As social media continues to fail us, we need to return to the ways of old.  In unsettling times like these it is necessary to share good blogs and podcasts.  Search engines increasingly return garbage results and have reduced usefulness.  As generative artificial intelligence pollutes cyberspace we are essentially fighting to maintain a coherent knowledge ecology now.
+As social media continues to fail us, we need to return to the ways of old.  In unsettling times like these it is necessary to share good blogs and podcasts.  Search engines increasingly return garbage results and have rather reduced usefulness.  As generative artificial intelligence pollutes cyberspace we are most definitely fighting to maintain a coherent knowledge ecology now.
 
 A rather non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes:
 
