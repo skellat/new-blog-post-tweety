@@ -18,4 +18,4 @@ Other domain names exist but do not point to anything *yet*.
 
 This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.  
 
-This blog does not have comments at this time due to the presently unsettled legal situation globally.
+This blog does not have comments at this time due to the presently unsettled legal situation globally.  There are currently no plans to add conventional comment capabilities.
