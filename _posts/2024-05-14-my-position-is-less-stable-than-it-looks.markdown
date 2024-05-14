@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Position Is Less Stable Than It Looks"
-date:   2024-05-13 20:09:00 -0400
+date:   2024-05-14 10:01:00 -0400
 categories: blather
 ---
 Why on earth am I even trying to get started with [Patreon](https://patreon.com/erielookingproductions?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)?  Well, as the title says, things are not as stable as they might seem.  While I may enjoy teaching I recognize that my position is *contingent* and right now there are many politicians that want to gut funding for technical and further education.  On Wednesday I get to see the farce of [Eastern Gateway Community College](https://web.archive.org/web/20240512220301/https://www.wtrf.com/news/education/local-college-offering-scholarships-to-students-involved-in-eastern-gateway-community-college-upheaval/) here in Ohio have one of its final board meetings as it begins the final steps towards dissolution in the face of a budget crisis.  Lakeland Community College is nearing ["fiscal watch"](https://web.archive.org/web/20240512130552/https://ohioauditor.gov/fiscal/local.html) status with the Auditor of State so it is close but not yet over the edge in terms of budget problems.  Out of the 34 public institutions of higher learning in Ohio only The Ohio State University and University of Cincinnati are in okay shape financially at the moment.
