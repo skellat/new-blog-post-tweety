@@ -14,7 +14,7 @@ The podcast *69 Admins* about the world of streaming television can be found at 
 
 The general experimentation site can be found at <https://coyote.works/>.  The site is expected to be transitioned to a new operational paradigm soon.
 
-Other domain names exist but do not point to anything *yet*.
+Other domain names exist such as [wargame.blog](http://www.wargame.blog/) but do not point to anything *yet*.
 
 This blog is maintained [using GitHub](https://github.com/skellat/new-blog-post-tweety) and patches may be submitted for consideration.  Patches may be subject to summary closure, though.  
 
