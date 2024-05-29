@@ -12,4 +12,4 @@ The maintainer of this blog is Stephen Michael Kellat.  A disclaimer previously 
 >
 >*Reader discretion is encouraged.*  
 
-Any questions concerning the disclaimer should be directed to Mr. Kellat directly.  
+Any questions concerning the disclaimer **must** be directed to Mr. Kellat directly.  
