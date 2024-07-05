@@ -21,4 +21,3 @@ Finding continuity of care will be tricky.  I am in a medical situation where th
 Tomorrow is Independence Day.  For 248 years this country has been independent.  With the quintet of bombshell decisions by the United States Supreme Court (the immunity decision and the four agencies cases) it is quite fair to ask if we'll be celebrating Independence Day next year.  
 
 On New Year's Eve 2023 I was saying "next year in Melbourne".  I was half-joking at the time.  Apparently I need to operationalize those sorts of sentiments somehow.  
-
