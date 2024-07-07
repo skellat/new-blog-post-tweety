@@ -4,6 +4,33 @@ title: Archiving
 permalink: /archiving/
 ---
 
-Permission is granted to the institutional members of Christian College Librarians Inc. as well as to the Disciples of Christ Historical Society and the Internet Archive to archive this site through such means as they may deem appropriate without prior notice to the site maintainer.
+The following user-agent list is present in the robots.txt list that are banned at this time:
 
-Done at Ashtabula on February 10, 2024.
+- AdsBot-Google
+- Amazonbot
+- anthropic-ai
+- Applebot
+- Applebot-Extended
+- AwarioRssBot
+- AwarioSmartBot
+- Bytespider
+- CCBot
+- ChatGPT
+- ChatGPT-User
+- Claude-Web
+- ClaudeBot
+- cohere-ai
+- DataForSeoBot
+- Diffbot
+- FacebookBot
+- Google-Extended
+- GPTBot
+- ImagesiftBot
+- magpie-crawler
+- omgili
+- Omgilibot
+- peer39_crawler
+- PerplexityBot
+- YouBot
+
+None of this blog's contents are worth seeing appear in the training data of any AI monster.

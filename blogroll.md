@@ -36,6 +36,7 @@ A rather non-comprehensive judgmental sampling of blogs and podcasts from both m
 + [Terence Eden’s Blog](https://shkspr.mobi/blog)
 + [The Gerry Anderson Randomiser](https://gerry-anderson-randomiser.captivate.fm)
 + [The SWLing Post](https://swling.com/blog)
++ [UK Triv (from Game Show)](https://www.theincomparable.com/gameshow/uktriv/)
 + [Ungeniused](https://www.relay.fm/ungeniused)
 + [University of California Television](http://www.uctv.tv)
 + [Vintage Computing and Gaming](https://www.vintagecomputing.com/)
