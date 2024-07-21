@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Links
-permalink: /blogroll/
+layout: post
+title:  "Expanded Updated Blogroll"
+date:   2024-07-20 22:40:00 -0400
+categories: blather
 ---
+I have vastly expanded and updated the blogroll.  After some semi-automated sanitization of outputs I was able to create a redacted listing of podcasts and blogs to share.  It appears below and in the relevant permanent page.
 
-As social media continues to fail us, we need to return to the ways of old.  In unsettling times like these it is necessary to share good blogs and podcasts.  Search engines increasingly return garbage results and have rather reduced usefulness.  As generative artificial intelligence pollutes cyberspace we are most definitely fighting to maintain a coherent knowledge ecology now.
-
-A rather non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes but is not limited to:
+The blog roll includes at this time:  
 
 + [A nice guy's view on life](https://jon.sprig.gs/blog)
 + [60 Seconds of WIP](https://mwl.io/)
