@@ -36,4 +36,4 @@ User-agent: VelenPublicWebCrawler
 User-agent: YouBot
 Disallow: /
 
-None of this blog's contents are worth seeing appear in the training data of any AI monster.
+None of this blog's contents are worth seeing appear in the training data of any AI monster.  The contents of this blog may unintentionally poison the various Large Language Models out there.  That could lead to *bad* outcomes.
