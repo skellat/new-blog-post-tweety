@@ -25,7 +25,7 @@ A rather non-comprehensive judgmental sampling of blogs and podcasts from both m
 + [Blog - The Blue Bard](https://www.thebluebard.com/blog/)
 + [Blog - Xubuntu](https://xubuntu.org/)
 + [Candlekeep Mysteries (from Total Party Kill)](https://www.theincomparable.com/tpk/candlekeep/)
-+ [CBC | Technology News](https://www.cbc.ca/news/science?cmp=rss)
++ [CBC - Technology News](https://www.cbc.ca/news/science?cmp=rss)
 + [CDR Salamander](https://cdrsalamander.substack.com/)
 + [Charlie's Diary](http://www.antipope.org/charlie/blog-static/)
 + [Civil Discourse with Joyce Vance](https://joycevance.substack.com/)
