@@ -5,5 +5,3 @@ This is my blog's scaffolding and its content.  The use of the blog's RSS feed i
 This is generally edited using [Visual Studio Code](https://en.wikipedia.org/w/index.php?title=Visual_Studio_Code&oldid=1128781165).  Hosting is handled via [GitHub Pages](https://simple.wikipedia.org/w/index.php?title=GitHub&oldid=8334105#GitHub_Pages).  
 
 Reader discretion is advised as this can go interesting places.  
-
-Until the conclusion of the [2024 presidential election in the United States](https://simple.wikipedia.org/wiki/2024_United_States_presidential_election) this blog is going dark.

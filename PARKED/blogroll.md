@@ -4,7 +4,7 @@ title: Links
 permalink: /blogroll/
 ---
 
-Until the conclusion of the [2024 presidential election in the United States](https://simple.wikipedia.org/wiki/2024_United_States_presidential_election) this blog is going dark.  This is due to mandates from work.  In the meantime you probably should look at some of the various items listed on the blogroll below.
+As social media continues to fail us, we need to return to the ways of old.  In unsettling times like these it is necessary to share good blogs and podcasts.  Search engines increasingly return garbage results and have rather reduced usefulness.  As generative artificial intelligence pollutes cyberspace we are most definitely fighting to maintain a coherent knowledge ecology now.
 
 A rather non-comprehensive judgmental sampling of blogs and podcasts from both my [feed reader tracking](https://code.launchpad.net/~skellat/+git/FeedReadingFeeds) and my podcast [tracking monitor](https://code.launchpad.net/~skellat/+git/Podcasting) includes but is not limited to:
 

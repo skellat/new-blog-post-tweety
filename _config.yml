@@ -35,7 +35,7 @@ show_excerpts: true
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template', '_drafts', '.github', 'add-blog-post.sh']
+exclude: ['forceout', 'ChangeLog', 'CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'SECURITY.md', 'LICENSE', 'docs', 'Gemfile.lock', 'Gemfile', .post-template', '_drafts', '.github', 'add-blog-post.sh', 'POLITICS', 'PARKED', 'img']
 
 # Add webfinger hack to allow alias to this website
 # See https://www.kylereddoch.me/2023/02/15/using-alias-for-mastodon-account-jekyll-github-pages.html
