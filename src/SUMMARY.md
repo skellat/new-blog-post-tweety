@@ -8,4 +8,3 @@
 - [Radio](./radio.md)
 - [Networking](./networking.md)
 - [Other Items](./other.md)
-- [Boop](./boop.md)

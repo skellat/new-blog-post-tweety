@@ -8,6 +8,12 @@ Communications within the United States are likely to be impaired if Trump gets 
 
 ## Possible Radio Targets
 
+In no particular order:
+
++ WWV
++ Radio France International
++ Whatever else is listed by Glenn Hauser?
+
 ## Receiving Methods
 
 ## Tools Needed
