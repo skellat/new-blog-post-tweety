@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This is the scaffolding to a Jekyll site so there is no set single version.  There is only continuous integration.
+This is the scaffolding to an mdbook site so there is no set single version.  There is only continuous integration. 
 
 ## Reporting a Vulnerability
 
