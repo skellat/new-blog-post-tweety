@@ -1,3 +1,4 @@
-# Kellat.me
+Kellat.Me
+=================
 
-This is the scaffolding for the website at <https://kellat.me>.  In the [new era](https://simple.wikipedia.org/w/index.php?title=2024_United_States_presidential_election&oldid=9871049) nothing really makes sense.  It is time to plan for it, perhaps.
+This is an "operations log" kept in mdbook form.  Eventually I will create automated exports in EPUB format.  That's a project for later, though.
