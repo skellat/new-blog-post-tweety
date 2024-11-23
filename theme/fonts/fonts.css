@@ -1,0 +1,8 @@
+/* SUSE is under the Open Font License. See https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL */
+
+@font-face {
+  font-family: 'SUSE';
+  font-style: normal;
+  src: url('SUSE[wght].woff2') format('woff2');
+  font-display: swap;
+}
