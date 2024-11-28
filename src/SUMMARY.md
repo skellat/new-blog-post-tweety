@@ -4,6 +4,7 @@
 
 # Days Gone By
 
+- [Thursday, November 28, 2024 *(Overnight)*](./20241128-A.md)
 - [Saturday, November 23, 2024](./20241123.md)
 - [Saturday, November 16, 2024 *(Overnight)*](./20241116-A.md)
 - [Friday, November 15, 2024](./20241115.md)
@@ -16,3 +17,4 @@
 
 - [The Old Blog Roll](./blogroll.md)
 - [Redacted List of Monitored Podcasts](./podcasts.md)
+- [Other Web Properties](./other-sites.md)
