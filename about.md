@@ -8,7 +8,7 @@ This blog's maintainer is Stephen Michael Kellat.
 
 Stephen's non-academic endeavors can be supported financially via [Ko-Fi](https://ko-fi.com/smkellat) and [Patreon](https://patreon.com/erielookingproductions).  Support is encouraged to allow him to be able to work on creative endeavors without the uncertainties of "contingent academic labor".  Our economy is *extremely* bizarre right now.  What might these non-academic endeavors entail?  Typically they involve literary and artistic creation that might not have immediate commercial potential.  They may also include TTRPG-related matters.
 
-You can find Erie Looking Productions online at <https://www.erielookingproductions.info/>.  
+You can find Erie Looking Productions online at <https://erielookingproductions.info/>.  
 
 The podcast *69 Admins* about the world of streaming television can be found at <https://69admins.com/>.
 
