@@ -1,4 +1,9 @@
-Kellat.Me
-=================
+# The Blog Post-Tweety
 
-This is an "operations log" kept in mdbook form.  Eventually I will create automated exports in EPUB format.  That's a project for later, though.
+This is my blog's scaffolding and its content.  The use of the blog's RSS feed is **extremely** encouraged.  There are no plans presently to offer a version of the feed through alternate methods though such methods *do* exist.
+
+This is generally edited using [Visual Studio Code](https://en.wikipedia.org/w/index.php?title=Visual_Studio_Code&oldid=1128781165).  Hosting is handled via [GitHub Pages](https://simple.wikipedia.org/w/index.php?title=GitHub&oldid=8334105#GitHub_Pages).  
+
+Reader discretion is advised as this can go interesting places.  
+
+Until the conclusion of the [2024 presidential election in the United States](https://simple.wikipedia.org/wiki/2024_United_States_presidential_election) this blog is going dark.
