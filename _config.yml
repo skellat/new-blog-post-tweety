@@ -21,7 +21,7 @@ masto_username: smkellat
 liberapay_username: smkellat
 ko_fi_username: smkellat
 wikipedia_username: Smk
-steam_username: alpacaherder
+#steam_username: alpacaherder
 bsky_username: alpacaherder.bsky.social
 
 show_downloads: "false" #["true" or "false" (unquoted) to indicate whether to provide a download URL]
