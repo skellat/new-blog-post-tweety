@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Book Post 2"
+date:   2024-10-31 22:40:00 -0400
+categories: blather
+---
+# Thursday, October 31, 2024
+
+*Overnight Hours*
+
+I think this might actually work.  I have *fontspec* rigged with an appropriate set of fonts to make this look pretty.  There is a stanza before the preamble to allow *arara* to trigger properly.  I've got the directory structure laid out as logically as I can make it.
+
+The next steps will be to get GitHub Actions in play to rebuild this whenever I commit new changes and stick the result in a GitHub Pages branch.  There would be a decoy index.html file to hide that there is a continuously integrated PDF file that people could review.  Making an updated RSS feed would be tricky, though.  Eventually I would either figure that out or simply forego it.
+
+Much to think about, I suppose.  I can't ruminate on the election.  I have to think about *something* else...

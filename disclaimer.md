@@ -4,9 +4,7 @@ title: Disclaimer
 permalink: /disclaimer/
 ---
 
-The maintainer of this blog is Stephen Michael Kellat.  
-
-A disclaimer previously made elsewhere has been updated to state:  
+The maintainer of this blog is Stephen Michael Kellat.  A disclaimer previously made elsewhere has been updated to state:  
 
 >*All views expressed herein are solely my own.*
 >

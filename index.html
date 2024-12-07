@@ -4,9 +4,20 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">A Caution To Readers</h1>
+  <h1 class="page-heading">The Most Recent Five Posts</h1>
 
-  Until the conclusion of the <A href="https://simple.wikipedia.org/wiki/2024_United_States_presidential_election">2024 presidential election in the United States</A> this blog is going dark.  We apologize for any difficulties this may cause.  We'll be hopefully back in about a month to two months.
+  <ul class="post-list">
+   {% for post in site.posts limit:5 %}
+
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
   <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
