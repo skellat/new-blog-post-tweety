@@ -37,9 +37,8 @@ jobs:
           sudo apt update ; 
           sudo apt -y install latexml 
       - name: Build with latexml
-        run: |
-          mkdir /tmp/upload ; (latexml ./src/index.tex | latexmlpost --format=html5 --destination=/tmp/upload/index.html --navigationtoc=context --presentationmathml --graphicimages --pictureimages --split --splitpath="//ltx:part | //ltx:section | //ltx:subsection | //ltx:bibliography | //ltx:appendix | //ltx:index" -)
-        - name: Upload artifact
+        run: mkdir /tmp/upload ; (latexml ./src/index.tex | latexmlpost --format=html5 --destination=/tmp/upload/index.html --navigationtoc=context --presentationmathml --graphicimages --pictureimages --split --splitpath="//ltx:part | //ltx:section | //ltx:subsection | //ltx:bibliography | //ltx:appendix | //ltx:index" - )
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: /tmp/upload
