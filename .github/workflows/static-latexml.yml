@@ -1,3 +1,5 @@
+static.yml
+
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy LaTeXML content to Pages
 
@@ -29,13 +31,13 @@ jobs:
       LATEXML_VERSION: 0.8.8
     steps:
       - uses: actions/checkout@v4
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
       - name: Install latexml
         run: |
           sudo apt update
           sudo apt -y install latexml 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
       - name: Build with latexml
         run: |
           mkdir /tmp/upload
