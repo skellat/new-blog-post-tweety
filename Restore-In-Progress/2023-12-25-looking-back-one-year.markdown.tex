@@ -1,0 +1,133 @@
+To give you an idea of what was written roughly a year ago on the blog,
+these excerpts are offered. Some of these things have been lurking in
+the background while I have been teaching for most of the year.
+Eventually I will need to accelerate some of these plans forward. After
+all, the local newspaper is starting to fade out in somewhat visible
+ways.
+
+\subsubsection{December 23, 2022}\label{december-23-2022}
+
+\subsubsection{What Frightful Weather We Have
+Had}\label{what-frightful-weather-we-have-had}
+
+\begin{itemize}
+\tightlist
+\item
+  Development of the over-the-top network is stalled. I have ordered a
+  new Raspberry Pi 4B+ from PiHut in the UK. That'll likely be used as a
+  streaming head-end. The problem is where the head-end would stream to
+  in actual operations.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I really want to do a teletext carousel to push out on Twitch like
+    TCI/Adelphia had on the old 1990s cable system on Channel 30. That
+    would help with the lack of prepared content at the moment. YouTube
+    has an example \href{https://youtu.be/bhw25jFm5So}{out of
+    Minneapolis} that presents the idea roughly.
+  \item
+    I haven't finished putting my query together to fetch an appropriate
+    weather conditions map from the National Digital Forecast Database.
+    That would be helpful to use in pushing a weather report in a
+    semi-automated fashion.
+  \item
+    A goal of such a project is to \textbf{NOT} do something like
+    \href{https://vimeo.com/783282497}{this} from
+    \href{https://vimeo.com/user126359532}{Conneaut CAT-TV} if we can
+    help it.
+  \item
+    Something arranged like \href{https://geaugatv.org/contact}{Geauga
+    G-TV} would probably work but we would ditch running on a cable
+    system to be online only. They have
+    \href{https://vimeo.com/gtvvideos}{video on-demand} on Vimeo. Their
+    work is funded via franchise fees received locally in Geauga County.
+  \item
+    This still needs work.
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{December 24, 2022}\label{december-24-2022}
+
+\subsubsection{Generating Teletext
+Carousels}\label{generating-teletext-carousels}
+
+This is more intended to log thoughts than to be a coherent essay.
+
+I know I can use PowerPoint to do this. I did \emph{that} for one of the
+local cablecast channels for two years. Hooking up a Raspberry Pi zero
+and using LibreOffice to push a repeating slideshow would not be too
+hard but for the problem of updating the slideshow.
+
+I had been considering the notion of using a modified version of
+\href{http://web.archive.org/web/20221222032104/https://feh.finalrewind.org/}{feh}
+that was not from the package archives. That could be used to set up a
+slideshow. I hadn't had the chance to test it yet but if I understood
+the mechanics correctly I could have a fixed set of filenames in a
+directory that feh would flip through then I could use sftp to replace
+those files dynamically as needed. The filenames would be something like
+``first'', ``second'', ``third'', etc.
+
+Technically the ``video bulletin board'' that I referred to yesterday is
+more technically referred to as non-interactive in-vision teletext
+display. At least \href{https://github.com/peterkvt80/vbit-iv}{one
+GitHub repository} exists with software to decode teletext that could
+then be piped into OBS Studio or other software and then sent downstream
+to a streaming service. This requires further investigation.
+
+\subsubsection{December 26, 2022}\label{december-26-2022}
+
+\subsubsection{Boxing Up Boxing Day}\label{boxing-up-boxing-day}
+
+Keeping in mind what Alistair Buxton had to say about teletext I intend
+to do some experimenting. I really want to move forward on getting some
+sort of television programming up. With all the emergency conditions we
+had over the weekend and as unreliable as Facebook has proven to be for
+disseminating information we need to have \emph{something} in place.
+
+I really do not want to go with the
+\href{https://code.launchpad.net/~skellat/+git/auto-newspaper}{penny
+press newspaper production via LaTeX} plan instead. The code for that is
+basically settled as it is. What I \emph{do not} have settled is
+production capacity to print a community startup newspaper akin to what
+\emph{Zvezda} was trying not all that long ago over in the Russian
+Federation. I don't have the seed capital to even start looking at gear
+from Konica Minolta at this point let alone other vendors.
+
+\subsubsection{December 30, 2022}\label{december-30-2022}
+
+\subsubsection{Attempting To Avoid An
+Omnishambles}\label{attempting-to-avoid-an-omnishambles}
+
+\begin{itemize}
+\tightlist
+\item
+  I didn't expect there to be Debian packaging of
+  \href{https://info-beamer.com/}{info-beamer}. I need to read the
+  documentation a bit further to see what I am getting into with this.
+  With luck I can use this on the streaming channel that is being
+  developed as a ``video bulletin board'' programming set.
+\end{itemize}
+
+\subsubsection{December 31, 2022}\label{december-31-2022}
+
+\subsubsection{Last Words For 2022}\label{last-words-for-2022}
+
+I learned the hard way why Raspbian doesn't install LibreOffice on the
+Raspberry Pi Zero W. Apparently the JRE doesn't install correctly and
+without that dependency LibreOffice won't run. That set me back on
+testing using the Raspberry Pi Zero W as a video bulletin board
+generator. The streaming effort that should launch in 2023 is somewhat
+delayed while I determine which alternate option to try with the Zero W.
+
+This is more of a frustration than a total roadblock. I could probably
+whip up something using \href{https://feh.finalrewind.org/}{feh} while I
+continue to work out how to use
+\href{https://github.com/info-beamer}{info-beamer}. I also need to work
+out how to download appropriate tiles on an automated basis from
+\url{https://digital.weather.gov/} zoomed
+\href{https://digital.weather.gov/?zoom=8&lat=41.3043&lon=-80.55885&layers=F000BTTTTTT&region=0&element=4&mxmz=false&barbs=true&subl=TTTTF&units=english&wunits=nautical&coords=latlon&tunits=localt}{in
+on the local area}. If I have to fall back to the vodcasting alternate
+plan then I can take advantage of
+\href{https://coyote.works/howtouse.html}{pre-existing work I did in
+2022}.
