@@ -6,3 +6,4 @@ texput.log
 *.log
 *.out
 *.toc
+src/index.pdf
