@@ -32,13 +32,12 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install latexml
+      - name: Install mkdocs
         run: |
           sudo apt-get update ; 
           sudo apt-get -y --install-suggests install mkdocs 
       - name: Build with mkdocs
-        run: |
-          mkdocs build
+        run: mkdocs build
         - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
