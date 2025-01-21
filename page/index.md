@@ -2,7 +2,7 @@
 
 ### An Explanation
 
-Due to the challenged operational environment currently in existence, this website is effectively going away for a time.  We have to consult further operational guidance.  Unfortunately that guidance does not exist yet.
+Due to the [challenged operational environment currently in existence](https://simple.wikipedia.org/wiki/Second_presidency_of_Donald_Trump), this website is effectively going away for a time.  We have to consult further operational guidance.  Unfortunately that guidance does not exist yet.
 
 We encourage people to visit sites on our blogroll in the intervening time.
 
@@ -138,3 +138,5 @@ We encourage people to visit sites on our blogroll in the intervening time.
 ### Estimated Time of Recovery
 
 There is no Estimated Time of Recovery for normal web site operations.  There's no Estimated Time of Recovery for normal operations for the country.  This is a new dispensation, after all.
+
+Besides, what would recovery even look like now?

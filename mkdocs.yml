@@ -1,6 +1,6 @@
 site_name: The Web Site of Stephen Michael Kellat
-theme: readthedocs
-locale: en
+# theme: readthedocs
+# locale: en
 site_url: https://kellat.me/
 site_description: The main public website of Erie Looking Productions
 site_author: Stephen Michael Kellat
