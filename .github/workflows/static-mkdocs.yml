@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy LaTeXML content to Pages
+name: Deploy mkdocs content to Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -26,7 +26,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      LATEXML_VERSION: 1.5.3
+      MKDOCS_VERSION: 1.5.3
     steps:
       - uses: actions/checkout@v4
       - name: Setup Pages
@@ -35,7 +35,7 @@ jobs:
       - name: Install mkdocs
         run: |
           sudo apt-get update ; 
-          sudo apt-get -y --install-suggests install mkdocs 
+          sudo apt-get -y install mkdocs 
       - name: Build with mkdocs
         run: mkdocs build
         - name: Upload artifact
