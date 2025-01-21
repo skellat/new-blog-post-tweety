@@ -1,5 +1,6 @@
 site_name: The Web Site of Stephen Michael Kellat
 theme: readthedocs
+locale: en
 site_url: https://kellat.me/
 site_description: The main public website of Erie Looking Productions
 site_author: Stephen Michael Kellat
@@ -10,5 +11,10 @@ docs_dir: page
 site_dir: docs
 copyright: Copyright © 2019-2025 Stephen Michael Kellat.  
 plugins: []
+markdown_extensions:
+  - smarty
+  - toc:
+      permalink: true
+  - sane_lists
 nav:
      - Home: index.md

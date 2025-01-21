@@ -134,3 +134,7 @@ We encourage people to visit sites on our blogroll in the intervening time.
 + [WIRED Politics Lab](https://www.wired.com/)
 + [WJET/WFXP/YourErie.com](https://www.yourerie.com/)
 + [xkcd.com](https://xkcd.com/)
+
+### Estimated Time of Recovery
+
+There is no Estimated Time of Recovery for normal web site operations.  There's no Estimated Time of Recovery for normal operations for the country.  This is a new dispensation, after all.
