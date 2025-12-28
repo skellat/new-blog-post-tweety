@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This is the scaffolding to a Jekyll site so there is no set single version.  There is only continuous integration.
+There are no supported versions at this time.
 
 ## Reporting a Vulnerability
 
