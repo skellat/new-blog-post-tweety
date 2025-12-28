@@ -25,19 +25,11 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    env:
-#      MKDOCS_VERSION: 1.5.3
     steps:
       - uses: actions/checkout@v4
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-#      - name: Install mkdocs
-#        run: |
-#          sudo apt-get update ; 
-#          sudo apt-get -y install mkdocs 
-#      - name: Build with mkdocs
-#        run: mkdocs build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
