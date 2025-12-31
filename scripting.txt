@@ -1,0 +1,2 @@
+latexml war-log.tex | latexmlpost --destination=./docs/index.html --mathimages --nomathsvg  --nopresentationmathml --graphicimages --pictureimages -
+rm -rfv war-log.latexml.log latexmlpost.log 
