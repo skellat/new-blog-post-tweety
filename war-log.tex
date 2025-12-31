@@ -1,0 +1,63 @@
+% arara: lualatex: { shell: yes }
+% arara: lualatex: { shell: yes }
+% arara: lualatex: { shell: yes }
+% arara: lualatex: { shell: yes }
+% arara: clean: { extensions: [ aux, log, out, toc, ent, xml, bcf, listing, run, _minted ] }
+
+% !TeX program = lualatex
+% !TeX encoding = UTF-8
+
+\documentclass{article}
+
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{etoolbox}
+\usepackage{keyval}
+\usepackage{ifthen}
+\usepackage{csquotes}
+\usepackage{hyperxmp}
+\usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{relsize}
+\usepackage[paperheight=11in,paperwidth=8.5in,top=1in,bottom=1in,right=1in,left=1in]{geometry}
+
+\usepackage[sc]{mathpazo}
+\linespread{1.05}         % Palladio needs more leading (space between lines)
+\usepackage[T1]{fontenc}
+
+
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+
+\hypersetup{
+    pdftitle={The Log File},    % title
+    pdfauthor={Stephen Michael Kellat},     % author
+    pdfsubject={Journaling},   % subject of the document
+    colorlinks=true,       % false: boxed links; true: colored links
+   pdfdisplaydoctitle=true, %Show document title instead of file name in title bar
+   pdfnewwindow=true, %open links in a new window
+    pdfpagemode=UseOutlines,
+    bookmarksopen=true,
+    pdfkeywords={2026},
+    pdfpagelayout=OneColumn,
+    allcolors={black},
+    pdfstartview=FitH,
+}
+
+\title{The Log File}
+\author{Stephen Michael Kellat}
+\date{}
+
+\begin{document}
+\maketitle
+This is hopefully not a futile attempt at a something similar to a blog but not quite a blog.  To search below use your in-browser page search capabilities.  This file may become long but daily entries are not intended to be long discourses.
+
+\begin{description}
+  \item [Wednesday, December 31, 2025] Initialize logging file
+  \item [Thursday, January 1, 2026] \ldots 
+\end{description}
+
+\end{document}

@@ -7,3 +7,9 @@ texput.log
 *.out
 *.toc
 src/index.pdf
+tmp/index.html
+.gitignore
+tmp/ltx-article.css
+tmp/ltx-listings.css
+war-log.pdf
+tmp/LaTeXML.css
