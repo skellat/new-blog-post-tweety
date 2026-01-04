@@ -5,5 +5,7 @@
             "front_matter_title": ""
         }
     },
-    "sarif-viewer.connectToGithubCodeScanning": "off"
+    "sarif-viewer.connectToGithubCodeScanning": "off",
+    "editor.wordWrap": "on",
+    "latex-workshop.intellisense.atSuggestion.trigger.latex": "''"
 }
