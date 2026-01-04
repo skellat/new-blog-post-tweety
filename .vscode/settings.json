@@ -7,5 +7,16 @@
     },
     "sarif-viewer.connectToGithubCodeScanning": "off",
     "editor.wordWrap": "on",
-    "latex-workshop.intellisense.atSuggestion.trigger.latex": "''"
+    "latex-workshop.intellisense.atSuggestion.trigger.latex": "''",
+    "notebook.experimental.generate": false,
+    "chat.agent.enabled": false,
+    "chat.allowAnonymousAccess": false,
+    "chat.commandCenter.enabled": false,
+    "chat.detectParticipant.enabled": false,
+    "chat.disableAIFeatures": true,
+    "workbench.commandPalette.showAskInChat": false,
+    "chat.extensionUnification.enabled": false,
+    "chat.math.enabled": false,
+    "azureResourceGroups.enableChatStandIn": false,
+    "githubPullRequests.experimental.chat": false
 }
